@@ -1,0 +1,2357 @@
+
+Iniciando simulación con 500 pasajeros...
+Pasajero 1 espera en Marcos A. Zar, 461 (Línea L3I) -> Espa�a, 485
+Pasajero 2 espera en Manuel Carrera, 1534 (Línea L3R) -> Ruta Provincial 1
+Pasajero 3 espera en Avenida Juan Muzzio, 258 (Línea L2I) -> 25 De Mayo, 299
+Pasajero 4 espera en Avenida Julio Argentino Roca, 2251 (Línea L2I) -> Abraham Mathews, 2525
+Pasajero 5 espera en El Jariyal, 1725 (Línea L6I) -> Los Alamos, 3900
+Pasajero 6 espera en Hip�lito Yrigoyen, 802 (Línea L5I) -> La Pampa, 698
+Pasajero 7 espera en 25 De Mayo, 299 (Línea L5I) -> Espa�a, 1431
+Pasajero 8 espera en Gobernador Alejandro Maiz, 315 (Línea L1R) -> San Mart�n, 1220
+Pasajero 9 espera en Santiago Del Estero, 727 (Línea L5R) -> Necochea, 1022
+Pasajero 10 espera en 25 De Mayo, 299 (Línea L5I) -> Espa�a, 485
+Pasajero 11 espera en Luis Urtazun, 1005 (Línea L5R) -> Espa�a, 1450
+Pasajero 12 espera en Comodoro Mart�n Rivadavia, 750 (Línea L1I) -> Roberto G�mez, 1017
+Pasajero 13 espera en Rivadavia, 2476 (Línea L4I) -> Juan Jose Meangolarra Y Moreno, 1005
+Pasajero 14 espera en Bartolom� Mitre, 401 (Línea L6R) -> 28 De Julio, 200
+Pasajero 15 espera en Pedro Derbes, 660 (Línea L2I) -> Avenida Juan Muzzio, 258
+Pasajero 16 espera en Rivadavia 2950 (Línea L4I) -> Juan Jose Meangolarra Y Moreno, 1005
+Pasajero 17 espera en Ruta Provincial 1 (Línea L3I) -> San Juan, 896
+Pasajero 18 espera en Hip�lito Yrigoyen, 802 (Línea L5I) -> Espa�a, 485
+Pasajero 19 espera en Pedro Derbes, 1040 (Línea L2R) -> Esquel, 1352
+Pasajero 20 espera en Belgrano, 314 (Línea L5I) -> 25 De Mayo, 693
+Pasajero 21 espera en Periodistas Chubutenses, 500 (Línea L3R) -> Santiago Del Estero, 727
+Pasajero 22 espera en Comodoro Mart�n Rivadavia, 602 (Línea L1I) -> Roberto G�mez, 1017
+Pasajero 23 espera en Hip�lito Yrigoyen, 802 (Línea L2I) -> Belgrano, 314
+Pasajero 24 espera en Gobernador Alejandro Maiz, 315 (Línea L2I) -> Bv. Almirante Brown, 3053
+Pasajero 25 espera en Manuel Alsua, 1086 (Línea L4I) -> Juan Jose Meangolarra Y Moreno, 1005
+Pasajero 26 espera en Belgrano, 314 (Línea L5I) -> 25 De Mayo, 693
+Pasajero 27 espera en Manuel Alsua, 1086 (Línea L4R) -> Lewis Jones, 1336
+Pasajero 28 espera en Avenida Domec Garc�a Norte, 239 (Línea L1I) -> Juli�n Murga, 950
+Pasajero 29 espera en 28 De Julio, 200 (Línea L2R) -> Avenida Juan Muzzio, 15-198
+Pasajero 30 espera en Comodoro Mart�n Rivadavia, 602 (Línea L1I) -> Roberto G�mez, 1017
+Pasajero 31 espera en Avenida Juan Muzzio, 482 (Línea L2I) -> Bv. Almirante Brown, 2925
+Pasajero 32 espera en Bv. Almirante Brown, 3053 (Línea L2R) -> 28 De Julio, 200
+Pasajero 33 espera en Dorrego, 700 (Línea L6R) -> 1 De Marzo, 405
+Pasajero 34 espera en Manuel Alsua, 1086 (Línea L4I) -> Juan Jose Meangolarra Y Moreno, 1005
+Pasajero 35 espera en Belgrano, 314 (Línea L2I) -> Avenida Julio Argentino Roca, 1567
+Pasajero 36 espera en San Juan, 891 (Línea L3R) -> Fournier, 1187
+Pasajero 37 espera en Juli�n Murga, 950 (Línea L1I) -> Comodoro Mart�n Rivadavia, 750
+Pasajero 38 espera en Pedro Derbes, 1102 (Línea L2R) -> Pasaje 22 De Abril, 308
+Pasajero 39 espera en Avenida Julio Argentino Roca, 1615 (Línea L6R) -> 28 De Julio, 200
+Pasajero 40 espera en Belgrano, 314 (Línea L2I) -> Avenida Julio Argentino Roca, 1567
+Pasajero 41 espera en San Juan, 896 (Línea L3I) -> Ruperto Gimenez, 678
+Pasajero 42 espera en Chiquichan, 22 (Línea L2R) -> Pasaje 22 De Abril, 308
+Pasajero 43 espera en Rivadavia, 2496 (Línea L4R) -> Bartolom� Mitre, 610
+Pasajero 44 espera en Jos� Alberdi 720 (Línea L5R) -> Avenida Juan Xxiii, 1708
+Pasajero 45 espera en Jos� Alberdi 720 (Línea L5R) -> Hip�lito Yrigoyen, 457
+Pasajero 46 espera en Manuel Alsua, 1086 (Línea L4R) -> 28 De Julio, 200
+Pasajero 47 espera en 28 De Julio, 311 (Línea L6I) -> Marcos A. Zar, 691
+Pasajero 48 espera en Espa�a, 485 (Línea L1R) -> Villegas, 700
+Pasajero 49 espera en Mariano Moreno, 193 (Línea L4R) -> Bartolom� Mitre, 610
+Pasajero 50 espera en Avenida Juan Muzzio, 258 (Línea L1R) -> Marcos A. Zar, 1980
+Pasajero 51 espera en Comodoro Mart�n Rivadavia, 750 (Línea L1I) -> Roberto G�mez, 1017
+Pasajero 52 espera en Avenida Juan Muzzio, 482 (Línea L1R) -> Soldado Desconocido, 1265
+Pasajero 53 espera en Juan B. Justo, 1172 (Línea L1I) -> Avenida Domec Garc�a Norte, 239
+Pasajero 54 espera en Marcos A. Zar, 1998 (Línea L1I) -> Avenida Domec Garc�a Norte, 239
+Pasajero 55 espera en Bouchard, 1285 (Línea L4I) -> Vito Roca 1106
+Pasajero 56 espera en Santiago Del Estero, 727 (Línea L5R) -> Avenida Juan Xxiii, 1708
+Pasajero 57 espera en Fournier, 1187 (Línea L3R) -> Agust�n Pujol, 284
+Pasajero 58 espera en Roberto G�mez, 1017 (Línea L1R) -> Marcos A. Zar, 1980
+Pasajero 59 espera en Dorrego, 416 (Línea L1I) -> Mariano Moreno, 193
+Pasajero 60 espera en Hip�lito Yrigoyen, 457 (Línea L5R) -> Necochea, 1022
+Pasajero 61 espera en 1 De Marzo, 499 (Línea L2R) -> Esquel, 1352
+Pasajero 62 espera en 1 De Marzo, 405 (Línea L6I) -> Marcos A. Zar, 461
+Pasajero 63 espera en Chiquichan, 22 (Línea L2R) -> Pedro Derbes, 1040
+Pasajero 64 espera en Juan B. Justo, 1172 (Línea L1I) -> General Mosconi, 100
+Pasajero 65 espera en 1 De Marzo, 405 (Línea L3I) -> San Juan, 896
+Pasajero 66 espera en 28 De Julio, 200 (Línea L4R) -> 1 De Marzo, 405
+Pasajero 67 espera en Lewis Jones, 1336 (Línea L4R) -> Lewis Jones, 919
+Pasajero 68 espera en 28 De Julio, 311 (Línea L6I) -> El Jariyal, 1725
+Pasajero 69 espera en Avenida Juan Muzzio, 482 (Línea L2I) -> Gobernador Alejandro Maiz, 315
+Pasajero 70 espera en Manuel Carrera, 1534 (Línea L3R) -> Ruta Provincial 1
+Pasajero 71 espera en Roberto G�mez, 550 (Línea L2I) -> Bv. Almirante Brown, 2925
+Pasajero 72 espera en Marcos A. Zar, 1998 (Línea L1I) -> Mariano Moreno, 193
+Pasajero 73 espera en Belgrano, 314 (Línea L5I) -> La Pampa, 698
+Pasajero 74 espera en 25 De Mayo, 299 (Línea L5I) -> 25 De Mayo, 693
+Pasajero 75 espera en Periodistas Chubutenses, 500 (Línea L3R) -> San Juan, 891
+Pasajero 76 espera en 25 De Mayo, 693 (Línea L1R) -> San Mart�n, 1400
+Pasajero 77 espera en Espa�a, 928 (Línea L5R) -> 28 De Julio, 200
+Pasajero 78 espera en Manuel Alsua, 1086 (Línea L4R) -> Lewis Jones, 200
+Pasajero 79 espera en Aar�n Jenkins, 219 (Línea L2R) -> Fuerte San Jos�, 742
+Pasajero 80 espera en Santiago Del Estero, 727 (Línea L3R) -> Manuel Carrera, 1534
+Pasajero 81 espera en Manuel Alsua, 1086 (Línea L4I) -> Juan Jose Meangolarra Y Moreno, 1005
+Pasajero 82 espera en Esquel, 1352 (Línea L5I) -> Magallanes, 883
+Pasajero 83 espera en Avenida Juan Muzzio, 258 (Línea L2I) -> 25 De Mayo, 299
+Pasajero 84 espera en 1 De Marzo, 405 (Línea L6I) -> 28 De Julio, 311
+Pasajero 85 espera en El Jariyal, 1725 (Línea L6I) -> Los Alamos, 3900
+Pasajero 86 espera en Hip�lito Yrigoyen, 457 (Línea L5R) -> Necochea, 1022
+Pasajero 87 espera en Esquel, 1352 (Línea L5I) -> 25 De Mayo, 693
+Pasajero 88 espera en 28 De Julio, 200 (Línea L4R) -> 1 De Marzo, 405
+Pasajero 89 espera en Marcos A. Zar, 1980 (Línea L1R) -> Espa�a, 2375
+Pasajero 90 espera en Pedro Derbes, 816 (Línea L1R) -> Espa�a, 1431
+Pasajero 91 espera en Avenida Juan Muzzio, 482 (Línea L2I) -> Abraham Mathews, 2525
+Pasajero 92 espera en Dorrego, 669 (Línea L6I) -> El Jariyal, 1725
+Pasajero 93 espera en Rivadavia 2950 (Línea L4I) -> Manuel Alsua, 1086
+Pasajero 94 espera en Hip�lito Yrigoyen, 457 (Línea L2R) -> 1 De Marzo, 499
+Pasajero 95 espera en 28 De Julio, 200 (Línea L6R) -> 1 De Marzo, 405
+Pasajero 96 espera en Roberto G�mez, 550 (Línea L2I) -> Avenida Julio Argentino Roca, 2251
+Pasajero 97 espera en Gobernador Alejandro Maiz, 315 (Línea L5I) -> Belgrano, 314
+Pasajero 98 espera en Hip�lito Yrigoyen, 802 (Línea L5I) -> Espa�a, 1431
+Pasajero 99 espera en 25 De Mayo, 299 (Línea L2I) -> Bv. Almirante Brown, 3053
+Pasajero 100 espera en Espa�a, 1431 (Línea L5I) -> Luis Urtazun, 624
+Pasajero 101 espera en 1 De Marzo, 405 (Línea L4I) -> Juan Jose Meangolarra Y Moreno, 1005
+Pasajero 102 espera en Aar�n Jenkins, 219 (Línea L2R) -> 28 De Julio, 200
+Pasajero 103 espera en Espa�a, 485 (Línea L5I) -> Espa�a, 1431
+Pasajero 104 espera en Lewis Jones, 919 (Línea L4R) -> Lewis Jones, 200
+Pasajero 105 espera en 25 De Mayo, 299 (Línea L2I) -> 25 De Mayo, 693
+Pasajero 106 espera en Abraham Mathews, 2525 (Línea L2I) -> Bv. Almirante Brown, 2925
+Pasajero 107 espera en Roberto G�mez, 550 (Línea L2I) -> Belgrano, 314
+Pasajero 108 espera en 28 De Julio, 311 (Línea L6I) -> Dorrego, 669
+Pasajero 109 espera en 1 De Marzo, 499 (Línea L3R) -> Manuel Carrera, 1534
+Pasajero 110 espera en 28 De Julio, 200 (Línea L2R) -> Pedro Derbes, 1040
+Pasajero 111 espera en Dorrego, 416 (Línea L1I) -> Comodoro Mart�n Rivadavia, 750
+Pasajero 112 espera en Vito Roca 1106 (Línea L4I) -> Manuel Alsua, 1086
+Pasajero 113 espera en Marcos A. Zar, 691 (Línea L4I) -> Manuel Alsua, 1086
+Pasajero 114 espera en 25 De Mayo, 693 (Línea L2I) -> Avenida Julio Argentino Roca, 2251
+Pasajero 115 espera en 28 De Julio, 200 (Línea L3R) -> Agust�n Pujol, 284
+Pasajero 116 espera en Marcos A. Zar, 691 (Línea L4I) -> Bouchard, 880
+Pasajero 117 espera en Bartolom� Mitre, 610 (Línea L4R) -> 1 De Marzo, 405
+Pasajero 118 espera en 28 De Julio, 311 (Línea L6I) -> Marcos A. Zar, 461
+Pasajero 119 espera en Bartolom� Mitre, 610 (Línea L1I) -> Roberto G�mez, 1017
+Pasajero 120 espera en Rivadavia 2950 (Línea L4I) -> Vito Roca 1106
+Pasajero 121 espera en Agust�n Pujol, 284 (Línea L3R) -> Ruta Provincial 1
+Pasajero 122 espera en Pasaje 22 De Abril, 308 (Línea L2R) -> Esquel, 1352
+Pasajero 123 espera en Avenida Julio Argentino Roca, 2251 (Línea L2I) -> Bv. Almirante Brown, 3053
+Pasajero 124 espera en Manuel Carrera, 1534 (Línea L3R) -> Ruta Provincial 1
+Pasajero 125 espera en General Mosconi, 100 (Línea L1I) -> Juli�n Murga, 950
+Pasajero 126 espera en Rivadavia, 2496 (Línea L4R) -> Mariano Moreno, 193
+Pasajero 127 espera en Pasaje 22 De Abril, 167 (Línea L2I) -> Pedro Derbes, 816
+Pasajero 128 espera en Gobernador Alejandro Maiz, 315 (Línea L5I) -> La Pampa, 698
+Pasajero 129 espera en Santiago Del Estero, 727 (Línea L3R) -> San Juan, 891
+Pasajero 130 espera en Avenida Julio Argentino Roca, 1615 (Línea L2R) -> 28 De Julio, 200
+Pasajero 131 espera en Roberto G�mez, 550 (Línea L2I) -> Gobernador Alejandro Maiz, 315
+Pasajero 132 espera en Avenida Juan Muzzio, 482 (Línea L1R) -> 25 De Mayo, 693
+Pasajero 133 espera en Fuerte San Jos�, 742 (Línea L2R) -> Esquel, 1352
+Pasajero 134 espera en Espa�a, 1450 (Línea L5R) -> Sarmiento, 229
+Pasajero 135 espera en Rivadavia, 2496 (Línea L4R) -> 1 De Marzo, 405
+Pasajero 136 espera en Mariano Moreno, 193 (Línea L1I) -> Roberto G�mez, 1017
+Pasajero 137 espera en Lewis Jones, 1336 (Línea L4R) -> Lewis Jones, 200
+Pasajero 138 espera en Marcos A. Zar, 691 (Línea L6I) -> El Jariyal, 1725
+Pasajero 139 espera en Rivadavia, 2496 (Línea L4R) -> Lewis Jones, 1336
+Pasajero 140 espera en Marcos A. Zar, 461 (Línea L4I) -> Vito Roca 1106
+Pasajero 141 espera en 28 De Julio, 200 (Línea L2R) -> Fuerte San Jos�, 742
+Pasajero 142 espera en Bartolom� Mitre, 610 (Línea L2R) -> Esquel, 1352
+Pasajero 143 espera en Manuel Alsua, 1086 (Línea L4R) -> Bartolom� Mitre, 610
+Pasajero 144 espera en Belgrano, 314 (Línea L2I) -> Bv. Almirante Brown, 2925
+Pasajero 145 espera en Gobernador Alejandro Maiz, 315 (Línea L5I) -> 25 De Mayo, 693
+Pasajero 146 espera en Villegas, 700 (Línea L5I) -> Luis Urtazun, 624
+Pasajero 147 espera en Ca�a Colihue, 1184 (Línea L6R) -> 1 De Marzo, 405
+Pasajero 148 espera en Manuel Alsua, 1086 (Línea L4R) -> Mariano Moreno, 193
+Pasajero 149 espera en Espa�a, 1450 (Línea L5R) -> Espa�a, 928
+Pasajero 150 espera en Vito Roca 1106 (Línea L4I) -> Juan Jose Meangolarra Y Moreno, 1005
+Pasajero 151 espera en Marcos A. Zar, 691 (Línea L4I) -> Bouchard, 880
+Pasajero 152 espera en Dorrego, 700 (Línea L6R) -> 1 De Marzo, 405
+Pasajero 153 espera en Espa�a, 928 (Línea L1I) -> Avenida Domec Garc�a Norte, 239
+Pasajero 154 espera en 1 De Marzo, 499 (Línea L2R) -> Pasaje 22 De Abril, 308
+Pasajero 155 espera en Jos� Contin 712 (Línea L5R) -> Espa�a 2451
+Pasajero 156 espera en Bartolom� Mitre, 610 (Línea L4R) -> 28 De Julio, 200
+Pasajero 157 espera en Pedro Derbes, 1040 (Línea L2R) -> Esquel, 1352
+Pasajero 158 espera en 8 De Marzo, 385 (Línea L2I) -> 25 De Mayo, 299
+Pasajero 159 espera en 1 De Marzo, 405 (Línea L6I) -> Dorrego, 669
+Pasajero 160 espera en Pedro Derbes, 1040 (Línea L2R) -> Esquel, 1352
+Pasajero 161 espera en San Juan, 896 (Línea L3I) -> Ruperto Gimenez, 678
+Pasajero 162 espera en Bv. Almirante Brown, 3053 (Línea L2R) -> Chiquichan, 22
+Pasajero 163 espera en Dorrego, 109 (Línea L1R) -> Espa�a, 2375
+Pasajero 164 espera en Aar�n Jenkins, 219 (Línea L2R) -> Pasaje 22 De Abril, 308
+Pasajero 165 espera en Avenida Juan Muzzio, 15-198 (Línea L2R) -> Pasaje 22 De Abril, 308
+Pasajero 166 espera en Jos� Alberdi 720 (Línea L5R) -> Hip�lito Yrigoyen, 457
+Pasajero 167 espera en Bartolom� Mitre, 401 (Línea L2R) -> Fuerte San Jos�, 742
+Pasajero 168 espera en Necochea, 1022 (Línea L5R) -> Alto R�o Senguer, 1311
+Pasajero 169 espera en Fuerte San Jos�, 742 (Línea L2R) -> Pedro Derbes, 1102
+Pasajero 170 espera en Bouchard, 880 (Línea L4I) -> Bouchard, 1285
+Pasajero 171 espera en San Juan, 891 (Línea L3R) -> Agust�n Pujol, 284
+Pasajero 172 espera en Rivadavia 2950 (Línea L4I) -> Manuel Alsua, 1086
+Pasajero 173 espera en Rivadavia, 2476 (Línea L4I) -> Manuel Alsua, 1086
+Pasajero 174 espera en Pedro Derbes, 660 (Línea L2I) -> 25 De Mayo, 693
+Pasajero 175 espera en Esquel, 1352 (Línea L5I) -> La Pampa, 698
+Pasajero 176 espera en Manuel Carrera, 1534 (Línea L3I) -> Marcos A. Zar, 691
+Pasajero 177 espera en Manuel Alsua, 1086 (Línea L4R) -> Lewis Jones, 919
+Pasajero 178 espera en Juli�n Murga, 950 (Línea L1I) -> Comodoro Mart�n Rivadavia, 602
+Pasajero 179 espera en Bouchard, 1285 (Línea L4I) -> Juan Jose Meangolarra Y Moreno, 1005
+Pasajero 180 espera en Dorrego, 700 (Línea L3R) -> Manuel Carrera, 1534
+Pasajero 181 espera en Avenida Juan Muzzio, 15-198 (Línea L2R) -> Pedro Derbes, 1040
+Pasajero 182 espera en Bartolom� Mitre, 610 (Línea L4R) -> 28 De Julio, 200
+Pasajero 183 espera en Ca�a Colihue, 1184 (Línea L6R) -> 28 De Julio, 200
+Pasajero 184 espera en Avenida Juan Muzzio, 482 (Línea L2I) -> Abraham Mathews, 2525
+Pasajero 185 espera en 28 De Julio, 200 (Línea L5R) -> Alto R�o Senguer, 1311
+Pasajero 186 espera en Agust�n Pujol, 284 (Línea L3R) -> Ruta Provincial 1
+Pasajero 187 espera en 1 De Marzo, 405 (Línea L3I) -> Dorrego, 700
+Pasajero 188 espera en El Jariyal, 1725 (Línea L6I) -> Los Alamos, 3900
+Pasajero 189 espera en Espa�a, 1450 (Línea L1I) -> Mariano Moreno, 193
+Pasajero 190 espera en Vito Roca 705 (Línea L5R) -> Hip�lito Yrigoyen, 457
+Pasajero 191 espera en 25 De Mayo, 299 (Línea L5I) -> Luis Urtazun, 624
+Pasajero 192 espera en 25 De Mayo, 299 (Línea L2I) -> 25 De Mayo, 693
+Pasajero 193 espera en Rivadavia, 2496 (Línea L4R) -> Bartolom� Mitre, 610
+Pasajero 194 espera en Belgrano, 314 (Línea L2I) -> Bv. Almirante Brown, 2925
+Pasajero 195 espera en Bv. Almirante Brown, 3053 (Línea L2R) -> Bartolom� Mitre, 610
+Pasajero 196 espera en Roberto G�mez, 550 (Línea L1R) -> Avenida Juan Muzzio, 482
+Pasajero 197 espera en Esquel, 1352 (Línea L2I) -> 8 De Marzo, 385
+Pasajero 198 espera en Bouchard, 400 (Línea L5R) -> Necochea, 1022
+Pasajero 199 espera en 1 De Marzo, 499 (Línea L2R) -> Fuerte San Jos�, 742
+Pasajero 200 espera en San Mart�n, 1220 (Línea L1R) -> Espa�a, 1431
+Pasajero 201 espera en 8 De Marzo, 385 (Línea L2I) -> Avenida Julio Argentino Roca, 2251
+Pasajero 202 espera en Espa�a, 1660 (Línea L5R) -> Espa�a, 928
+Pasajero 203 espera en Manuel Carrera, 1534 (Línea L3R) -> Ruta Provincial 1
+Pasajero 204 espera en Magallanes, 883 (Línea L5I) -> Espa�a, 1431
+Pasajero 205 espera en El Jariyal, 1725 (Línea L6I) -> Los Alamos, 3900
+Pasajero 206 espera en Ruperto Gimenez, 678 (Línea L3R) -> 1 De Marzo, 499
+Pasajero 207 espera en Roberto G�mez, 1017 (Línea L1R) -> Belgrano, 314
+Pasajero 208 espera en Rivadavia, 2476 (Línea L4I) -> Vito Roca 1106
+Pasajero 209 espera en Marcos A. Zar, 691 (Línea L4I) -> Vito Roca 1106
+Pasajero 210 espera en Pasaje 22 De Abril, 167 (Línea L2I) -> Avenida Juan Muzzio, 482
+Pasajero 211 espera en Manuel Garc�a 705 (Línea L5R) -> Hip�lito Yrigoyen, 457
+Pasajero 212 espera en 28 De Julio, 200 (Línea L1I) -> Comodoro Mart�n Rivadavia, 750
+Pasajero 213 espera en Vicente L�pez Y Planes, 315 (Línea L5R) -> Necochea, 1022
+Pasajero 214 espera en Espa�a, 485 (Línea L5I) -> Luis Urtazun, 624
+Pasajero 215 espera en Avenida Julio Argentino Roca, 1615 (Línea L2R) -> Bartolom� Mitre, 610
+Pasajero 216 espera en Bv. Almirante Brown, 2925 (Línea L2I) -> Bv. Almirante Brown, 3053
+Pasajero 217 espera en 28 De Julio, 200 (Línea L4R) -> 1 De Marzo, 405
+Pasajero 218 espera en Rivadavia 2950 (Línea L4I) -> Manuel Alsua, 1086
+Pasajero 219 espera en 25 De Mayo, 693 (Línea L1R) -> La Pampa, 698
+Pasajero 220 espera en Rivadavia, 2476 (Línea L4I) -> Rivadavia 2950
+Pasajero 221 espera en Fuerte San Jos�, 742 (Línea L2R) -> Pasaje 22 De Abril, 308
+Pasajero 222 espera en 28 De Julio, 200 (Línea L2R) -> Esquel, 1352
+Pasajero 223 espera en Avenida Julio Argentino Roca, 1615 (Línea L2R) -> Bartolom� Mitre, 610
+Pasajero 224 espera en Avenida Juan Muzzio, 258 (Línea L1R) -> Gobernador Alejandro Maiz, 315
+Pasajero 225 espera en Espa�a, 1450 (Línea L5R) -> Necochea, 1022
+Pasajero 226 espera en Juan Jose Meangolarra Y Moreno, 1005 (Línea L4R) -> Rivadavia, 2496
+Pasajero 227 espera en Alsua De Corbetto, 638 (Línea L6R) -> 28 De Julio, 200
+Pasajero 228 espera en 8 De Marzo, 385 (Línea L2I) -> Belgrano, 314
+Pasajero 229 espera en Avenida Julio Argentino Roca, 1615 (Línea L6R) -> 1 De Marzo, 405
+Pasajero 230 espera en Vicente L�pez Y Planes, 315 (Línea L5R) -> Alto R�o Senguer, 1311
+Pasajero 231 espera en Pedro Derbes, 816 (Línea L1R) -> La Pampa, 698
+Pasajero 232 espera en Vito Roca 1106 (Línea L4I) -> Manuel Alsua, 1086
+Pasajero 233 espera en Espa�a, 928 (Línea L5R) -> Necochea, 1022
+Pasajero 234 espera en Esquel, 1352 (Línea L5I) -> Gobernador Alejandro Maiz, 315
+Pasajero 235 espera en Magallanes, 883 (Línea L5I) -> Gobernador Alejandro Maiz, 315
+Pasajero 236 espera en Pedro Derbes, 816 (Línea L2I) -> Pedro Derbes, 660
+Pasajero 237 espera en 1 De Marzo, 499 (Línea L3R) -> Manuel Carrera, 1534
+Pasajero 238 espera en Belgrano, 314 (Línea L5I) -> Luis Urtazun, 624
+Pasajero 239 espera en Espa�a, 1431 (Línea L5I) -> Luis Urtazun, 624
+Pasajero 240 espera en Lewis Jones, 1336 (Línea L4R) -> Lewis Jones, 919
+Pasajero 241 espera en Belgrano, 314 (Línea L2I) -> Abraham Mathews, 2525
+Pasajero 242 espera en Pedro Derbes, 660 (Línea L2I) -> Belgrano, 314
+Pasajero 243 espera en El Jariyal, 1725 (Línea L6I) -> Los Alamos, 3900
+Pasajero 244 espera en Avenida Juan Muzzio, 15-198 (Línea L2R) -> Pasaje 22 De Abril, 308
+Pasajero 245 espera en Bartolom� Mitre, 401 (Línea L1I) -> General Mosconi, 100
+Pasajero 246 espera en Espa�a, 2375 (Línea L1R) -> Soldado Desconocido, 1265
+Pasajero 247 espera en Marcos A. Zar, 691 (Línea L4I) -> Rivadavia 2950
+Pasajero 248 espera en Pasaje 22 De Abril, 308 (Línea L2R) -> Esquel, 1352
+Pasajero 249 espera en Avenida Juan Muzzio, 482 (Línea L2I) -> 25 De Mayo, 299
+Pasajero 250 espera en Lewis Jones, 1336 (Línea L4R) -> Lewis Jones, 919
+Pasajero 251 espera en San Juan, 896 (Línea L3I) -> Ruperto Gimenez, 678
+Pasajero 252 espera en 25 De Mayo, 299 (Línea L1R) -> La Pampa, 698
+Pasajero 253 espera en Aar�n Jenkins, 219 (Línea L2R) -> 28 De Julio, 200
+Pasajero 254 espera en Vito Roca 1106 (Línea L4I) -> Juan Jose Meangolarra Y Moreno, 1005
+Pasajero 255 espera en Comodoro Mart�n Rivadavia, 602 (Línea L1I) -> Roberto G�mez, 1017
+Pasajero 256 espera en Marcos A. Zar, 691 (Línea L4I) -> Bouchard, 1285
+Pasajero 257 espera en Ca�a Colihue, 1184 (Línea L6R) -> Bartolom� Mitre, 610
+Pasajero 258 espera en Lewis Jones, 1336 (Línea L4R) -> Bartolom� Mitre, 610
+Pasajero 259 espera en 28 De Julio, 311 (Línea L4I) -> Rivadavia, 2476
+Pasajero 260 espera en 28 De Julio, 311 (Línea L6I) -> Marcos A. Zar, 691
+Pasajero 261 espera en Bartolom� Mitre, 401 (Línea L2R) -> Esquel, 1352
+Pasajero 262 espera en Fuerte San Jos�, 742 (Línea L2R) -> Esquel, 1352
+Pasajero 263 espera en Marcos A. Zar, 1998 (Línea L1I) -> Comodoro Mart�n Rivadavia, 602
+Pasajero 264 espera en Lewis Jones, 200 (Línea L4R) -> Mariano Moreno, 193
+Pasajero 265 espera en Pasaje 22 De Abril, 308 (Línea L2R) -> Esquel, 1352
+Pasajero 266 espera en 1 De Marzo, 499 (Línea L2R) -> Esquel, 1352
+Pasajero 267 espera en Rivadavia 2950 (Línea L4I) -> Juan Jose Meangolarra Y Moreno, 1005
+Pasajero 268 espera en Juan Bautista Alberdi, 1240 (Línea L5I) -> Espa�a, 485
+Pasajero 269 espera en 28 De Julio, 200 (Línea L2R) -> Pasaje 22 De Abril, 308
+Pasajero 270 espera en Bartolom� Mitre, 401 (Línea L5R) -> Avenida Juan Xxiii, 1708
+Pasajero 271 espera en Hip�lito Yrigoyen, 457 (Línea L2R) -> Esquel, 1352
+Pasajero 272 espera en Bv. Almirante Brown, 3053 (Línea L2R) -> 28 De Julio, 200
+Pasajero 273 espera en Avenida Julio Argentino Roca, 1567 (Línea L2I) -> Bv. Almirante Brown, 3053
+Pasajero 274 espera en Dorrego, 700 (Línea L3I) -> San Juan, 896
+Pasajero 275 espera en Alsua De Corbetto, 638 (Línea L6R) -> Bartolom� Mitre, 401
+Pasajero 276 espera en 25 De Mayo, 299 (Línea L2I) -> Abraham Mathews, 2525
+Pasajero 277 espera en Hip�lito Yrigoyen, 457 (Línea L5R) -> Avenida Juan Xxiii, 1708
+Pasajero 278 espera en Necochea, 1022 (Línea L5R) -> Alto R�o Senguer, 1311
+Pasajero 279 espera en Ca�a Colihue, 1184 (Línea L6R) -> 1 De Marzo, 405
+Pasajero 280 espera en Agust�n Pujol, 374 (Línea L3I) -> Dorrego, 700
+Pasajero 281 espera en Manuel Alsua, 1086 (Línea L4I) -> Juan Jose Meangolarra Y Moreno, 1005
+Pasajero 282 espera en 28 De Julio, 200 (Línea L3R) -> Ruta Provincial 1
+Pasajero 283 espera en Comodoro Mart�n Rivadavia, 602 (Línea L1I) -> Roberto G�mez, 1017
+Pasajero 284 espera en Chiquichan, 22 (Línea L2R) -> Pedro Derbes, 1102
+Pasajero 285 espera en Marcos A. Zar, 1998 (Línea L1I) -> Bartolom� Mitre, 610
+Pasajero 286 espera en Vito Roca 1106 (Línea L4I) -> Juan Jose Meangolarra Y Moreno, 1005
+Pasajero 287 espera en 25 De Mayo, 693 (Línea L5I) -> Espa�a, 1431
+Pasajero 288 espera en Bouchard, 1285 (Línea L4I) -> Juan Jose Meangolarra Y Moreno, 1005
+Pasajero 289 espera en Fournier, 1187 (Línea L3R) -> 1 De Marzo, 499
+Pasajero 290 espera en Alsua De Corbetto, 638 (Línea L6R) -> 1 De Marzo, 405
+Pasajero 291 espera en Bouchard, 400 (Línea L5R) -> Alto R�o Senguer, 1311
+Pasajero 292 espera en 28 De Julio, 311 (Línea L3I) -> Marcos A. Zar, 691
+Pasajero 293 espera en Bartolom� Mitre, 401 (Línea L2R) -> Pedro Derbes, 1040
+Pasajero 294 espera en Bartolom� Mitre, 610 (Línea L1I) -> Juli�n Murga, 950
+Pasajero 295 espera en Chiquichan, 22 (Línea L2R) -> Bartolom� Mitre, 401
+Pasajero 296 espera en Espa�a, 485 (Línea L5I) -> Espa�a, 1431
+Pasajero 297 espera en Chiquichan, 22 (Línea L6R) -> Avenida Julio Argentino Roca, 1615
+Pasajero 298 espera en 25 De Mayo, 299 (Línea L2I) -> Avenida Julio Argentino Roca, 1567
+Pasajero 299 espera en Manuel Carrera, 1534 (Línea L3R) -> Ruta Provincial 1
+Pasajero 300 espera en Chiquichan, 22 (Línea L2R) -> Avenida Julio Argentino Roca, 1615
+Pasajero 301 espera en 28 De Julio, 200 (Línea L2R) -> Fuerte San Jos�, 742
+Pasajero 302 espera en Roberto G�mez, 550 (Línea L2I) -> Avenida Juan Muzzio, 258
+Pasajero 303 espera en Dorrego, 700 (Línea L6R) -> Bartolom� Mitre, 610
+Pasajero 304 espera en Avenida Juan Muzzio, 15-198 (Línea L2R) -> Pedro Derbes, 1102
+Pasajero 305 espera en Bouchard, 1285 (Línea L4I) -> Juan Jose Meangolarra Y Moreno, 1005
+Pasajero 306 espera en Avenida Julio Argentino Roca, 2599 (Línea L6R) -> Bartolom� Mitre, 401
+Pasajero 307 espera en Pasaje 22 De Abril, 167 (Línea L2I) -> Avenida Julio Argentino Roca, 1567
+Pasajero 308 espera en Hip�lito Yrigoyen, 457 (Línea L2R) -> Esquel, 1352
+Pasajero 309 espera en Bartolom� Mitre, 610 (Línea L2R) -> Pedro Derbes, 1102
+Pasajero 310 espera en Bartolom� Mitre, 401 (Línea L1I) -> General Mosconi, 100
+Pasajero 311 espera en Ruperto Gimenez, 678 (Línea L5R) -> Espa�a, 928
+Pasajero 312 espera en Bartolom� Mitre, 401 (Línea L2R) -> Avenida Juan Muzzio, 15-198
+Pasajero 313 espera en La Pampa, 698 (Línea L1R) -> Espa�a, 2375
+Pasajero 314 espera en Marcos A. Zar, 461 (Línea L6I) -> Dorrego, 669
+Pasajero 315 espera en Roberto G�mez, 550 (Línea L2I) -> Gobernador Alejandro Maiz, 315
+Pasajero 316 espera en Fuerte San Jos�, 742 (Línea L2R) -> Pasaje 22 De Abril, 308
+Pasajero 317 espera en Avenida Julio Argentino Roca, 1615 (Línea L2R) -> 1 De Marzo, 499
+Pasajero 318 espera en Dorrego, 669 (Línea L6I) -> Los Alamos, 3900
+Pasajero 319 espera en 28 De Julio, 200 (Línea L2R) -> Pedro Derbes, 1040
+Pasajero 320 espera en Bartolom� Mitre, 610 (Línea L4R) -> 28 De Julio, 200
+Pasajero 321 espera en 1 De Marzo, 499 (Línea L3R) -> Manuel Carrera, 1534
+Pasajero 322 espera en Bartolom� Mitre, 610 (Línea L2R) -> Avenida Juan Muzzio, 15-198
+Pasajero 323 espera en 25 De Mayo, 693 (Línea L5I) -> Villegas, 700
+Pasajero 324 espera en Comodoro Mart�n Rivadavia, 750 (Línea L1I) -> Comodoro Mart�n Rivadavia, 602
+Pasajero 325 espera en Bv. Almirante Brown, 2925 (Línea L2I) -> Bv. Almirante Brown, 3053
+Pasajero 326 espera en Avenida Julio Argentino Roca, 1567 (Línea L2I) -> Bv. Almirante Brown, 2925
+Pasajero 327 espera en Vito Roca 1106 (Línea L4I) -> Manuel Alsua, 1086
+Pasajero 328 espera en Marcos A. Zar, 461 (Línea L4I) -> Marcos A. Zar, 691
+Pasajero 329 espera en Bouchard, 1285 (Línea L4I) -> Rivadavia, 2476
+Pasajero 330 espera en Periodistas Chubutenses, 500 (Línea L5R) -> Santiago Del Estero, 727
+Pasajero 331 espera en Pedro Derbes, 816 (Línea L1R) -> Marcos A. Zar, 1980
+Pasajero 332 espera en 28 De Julio, 311 (Línea L3I) -> San Juan, 896
+Pasajero 333 espera en Aar�n Jenkins, 219 (Línea L2R) -> Pasaje 22 De Abril, 308
+Pasajero 334 espera en Chiquichan, 22 (Línea L2R) -> Pedro Derbes, 1040
+Pasajero 335 espera en Hip�lito Yrigoyen, 457 (Línea L5R) -> Necochea, 1022
+Pasajero 336 espera en Alto R�o Senguer, 1311 (Línea L2I) -> 25 De Mayo, 693
+Pasajero 337 espera en Rivadavia 2950 (Línea L4I) -> Manuel Alsua, 1086
+Pasajero 338 espera en Villegas, 700 (Línea L5I) -> Espa�a, 1431
+Pasajero 339 espera en Bartolom� Mitre, 610 (Línea L4R) -> 1 De Marzo, 405
+Pasajero 340 espera en Marcos A. Zar, 691 (Línea L4I) -> Bouchard, 880
+Pasajero 341 espera en Rivadavia, 2496 (Línea L4R) -> 1 De Marzo, 405
+Pasajero 342 espera en Bouchard, 1285 (Línea L4I) -> Vito Roca 1106
+Pasajero 343 espera en Espa�a 2451 (Línea L5R) -> Bartolom� Mitre, 401
+Pasajero 344 espera en Avenida Julio Argentino Roca, 936 (Línea L6R) -> 1 De Marzo, 405
+Pasajero 345 espera en Lewis Jones, 919 (Línea L4R) -> 28 De Julio, 200
+Pasajero 346 espera en Manuel Alsua, 1086 (Línea L4R) -> 1 De Marzo, 405
+Pasajero 347 espera en Lewis Jones, 1336 (Línea L4R) -> Lewis Jones, 200
+Pasajero 348 espera en Lewis Jones, 1336 (Línea L4R) -> Lewis Jones, 919
+Pasajero 349 espera en Roberto G�mez, 550 (Línea L2I) -> 25 De Mayo, 299
+Pasajero 350 espera en Pedro Derbes, 1102 (Línea L2R) -> Esquel, 1352
+Pasajero 351 espera en Marcos A. Zar, 691 (Línea L6I) -> Los Alamos, 3900
+Pasajero 352 espera en Hip�lito Yrigoyen, 802 (Línea L5I) -> Belgrano, 314
+Pasajero 353 espera en 25 De Mayo, 299 (Línea L1R) -> Espa�a, 1431
+Pasajero 354 espera en Marcos A. Zar, 1980 (Línea L1R) -> Espa�a, 1431
+Pasajero 355 espera en 25 De Mayo, 299 (Línea L5I) -> Espa�a, 485
+Pasajero 356 espera en Bartolom� Mitre, 401 (Línea L5R) -> 28 De Julio, 200
+Pasajero 357 espera en Espa�a, 2375 (Línea L1R) -> Soldado Desconocido, 1265
+Pasajero 358 espera en Bartolom� Mitre, 610 (Línea L4R) -> 28 De Julio, 200
+Pasajero 359 espera en Chiquichan, 22 (Línea L2R) -> Avenida Juan Muzzio, 15-198
+Pasajero 360 espera en El Jariyal, 1725 (Línea L6I) -> Los Alamos, 3900
+Pasajero 361 espera en Bouchard, 400 (Línea L5R) -> Alto R�o Senguer, 1311
+Pasajero 362 espera en Bv. Almirante Brown, 2925 (Línea L2I) -> Bv. Almirante Brown, 3053
+Pasajero 363 espera en Marcos A. Zar, 461 (Línea L3I) -> Dorrego, 700
+Pasajero 364 espera en Avenida Juan Muzzio, 258 (Línea L2I) -> Bv. Almirante Brown, 2925
+Pasajero 365 espera en Rivadavia 2950 (Línea L4I) -> Manuel Alsua, 1086
+Pasajero 366 espera en Gobernador Alejandro Maiz, 315 (Línea L2I) -> 25 De Mayo, 693
+Pasajero 367 espera en Manuel Garc�a 705 (Línea L5R) -> Bartolom� Mitre, 401
+Pasajero 368 espera en Bartolom� Mitre, 610 (Línea L4R) -> 1 De Marzo, 405
+Pasajero 369 espera en Magallanes, 883 (Línea L5I) -> Gobernador Alejandro Maiz, 315
+Pasajero 370 espera en Gobernador Alejandro Maiz, 315 (Línea L1R) -> Espa�a, 1431
+Pasajero 371 espera en Pasaje 22 De Abril, 308 (Línea L2R) -> Esquel, 1352
+Pasajero 372 espera en Juan B. Justo, 1172 (Línea L1I) -> Comodoro Mart�n Rivadavia, 750
+Pasajero 373 espera en Espa�a, 485 (Línea L5I) -> La Pampa, 698
+Pasajero 374 espera en Juan Bautista Alberdi, 1240 (Línea L5I) -> 25 De Mayo, 693
+Pasajero 375 espera en Periodistas Chubutenses, 500 (Línea L5R) -> Alto R�o Senguer, 1311
+Pasajero 376 espera en 1 De Marzo, 499 (Línea L2R) -> Pedro Derbes, 1102
+Pasajero 377 espera en Marcos A. Zar, 691 (Línea L3I) -> San Juan, 896
+Pasajero 378 espera en San Juan, 891 (Línea L3R) -> 28 De Julio, 200
+Pasajero 379 espera en Bartolom� Mitre, 401 (Línea L6R) -> 28 De Julio, 200
+Pasajero 380 espera en 28 De Julio, 311 (Línea L6I) -> Los Alamos, 3900
+Pasajero 381 espera en Agust�n Pujol, 284 (Línea L3R) -> Ruta Provincial 1
+Pasajero 382 espera en Magallanes, 883 (Línea L5I) -> 25 De Mayo, 299
+Pasajero 383 espera en Dorrego, 700 (Línea L3I) -> Fournier, 1090
+Pasajero 384 espera en 28 De Julio, 311 (Línea L4I) -> Juan Jose Meangolarra Y Moreno, 1005
+Pasajero 385 espera en 25 De Mayo, 693 (Línea L5I) -> Luis Urtazun, 624
+Pasajero 386 espera en Bartolom� Mitre, 610 (Línea L2R) -> Avenida Juan Muzzio, 15-198
+Pasajero 387 espera en Esquel, 1352 (Línea L5I) -> Gobernador Alejandro Maiz, 315
+Pasajero 388 espera en Pedro Derbes, 1040 (Línea L2R) -> Esquel, 1352
+Pasajero 389 espera en Hip�lito Yrigoyen, 457 (Línea L2R) -> Fuerte San Jos�, 742
+Pasajero 390 espera en Aar�n Jenkins, 219 (Línea L2R) -> Chiquichan, 22
+Pasajero 391 espera en Juan Jose Meangolarra Y Moreno, 1005 (Línea L4R) -> Lewis Jones, 1336
+Pasajero 392 espera en 28 De Julio, 200 (Línea L4R) -> 1 De Marzo, 405
+Pasajero 393 espera en Pasaje 22 De Abril, 167 (Línea L2I) -> Bv. Almirante Brown, 3053
+Pasajero 394 espera en 28 De Julio, 200 (Línea L5R) -> Bouchard, 400
+Pasajero 395 espera en Marcos A. Zar, 1980 (Línea L1R) -> Villegas, 700
+Pasajero 396 espera en Bartolom� Mitre, 401 (Línea L2R) -> Avenida Juan Muzzio, 15-198
+Pasajero 397 espera en Espa�a, 1431 (Línea L5I) -> Luis Urtazun, 624
+Pasajero 398 espera en 28 De Julio, 311 (Línea L4I) -> Vito Roca 1106
+Pasajero 399 espera en 28 De Julio, 311 (Línea L4I) -> Marcos A. Zar, 691
+Pasajero 400 espera en Juan Bautista Alberdi, 1240 (Línea L5I) -> Villegas, 700
+Pasajero 401 espera en Dorrego, 669 (Línea L6I) -> El Jariyal, 1725
+Pasajero 402 espera en Bv. Almirante Brown, 3053 (Línea L2R) -> Fuerte San Jos�, 742
+Pasajero 403 espera en Marcos A. Zar, 1998 (Línea L1I) -> General Mosconi, 100
+Pasajero 404 espera en Pedro Derbes, 1102 (Línea L2R) -> Pasaje 22 De Abril, 308
+Pasajero 405 espera en Lewis Jones, 200 (Línea L4R) -> 1 De Marzo, 405
+Pasajero 406 espera en 25 De Mayo, 693 (Línea L5I) -> La Pampa, 698
+Pasajero 407 espera en Avenida Juan Muzzio, 258 (Línea L2I) -> Avenida Julio Argentino Roca, 2251
+Pasajero 408 espera en Rivadavia 2950 (Línea L4I) -> Vito Roca 1106
+Pasajero 409 espera en Belgrano, 314 (Línea L5I) -> Villegas, 700
+Pasajero 410 espera en Bouchard, 400 (Línea L5R) -> Vicente L�pez Y Planes, 315
+Pasajero 411 espera en Santiago Del Estero, 727 (Línea L3R) -> San Juan, 891
+Pasajero 412 espera en Fournier, 1187 (Línea L3R) -> Dorrego, 700
+Pasajero 413 espera en Espa�a, 1450 (Línea L5R) -> Bouchard, 400
+Pasajero 414 espera en Bartolom� Mitre, 610 (Línea L6R) -> 28 De Julio, 200
+Pasajero 415 espera en Marcos A. Zar, 1980 (Línea L1R) -> Soldado Desconocido, 1265
+Pasajero 416 espera en Villegas, 700 (Línea L5I) -> Luis Urtazun, 624
+Pasajero 417 espera en Pedro Derbes, 1040 (Línea L2R) -> Esquel, 1352
+Pasajero 418 espera en Lewis Jones, 1336 (Línea L4R) -> Lewis Jones, 200
+Pasajero 419 espera en Aar�n Jenkins, 219 (Línea L2R) -> 1 De Marzo, 499
+Pasajero 420 espera en Sarmiento, 229 (Línea L5R) -> Bouchard, 400
+Pasajero 421 espera en Gobernador Alejandro Maiz, 315 (Línea L2I) -> Avenida Julio Argentino Roca, 1567
+Pasajero 422 espera en Marcos A. Zar, 691 (Línea L6I) -> El Jariyal, 1725
+Pasajero 423 espera en Espa�a, 928 (Línea L5R) -> Vicente L�pez Y Planes, 315
+Pasajero 424 espera en Bartolom� Mitre, 401 (Línea L6R) -> 28 De Julio, 200
+Pasajero 425 espera en 28 De Julio, 200 (Línea L4R) -> 1 De Marzo, 405
+Pasajero 426 espera en Santiago Del Estero, 727 (Línea L5R) -> Avenida Juan Xxiii, 1708
+Pasajero 427 espera en 28 De Julio, 200 (Línea L4R) -> 1 De Marzo, 405
+Pasajero 428 espera en Manuel Alsua, 1086 (Línea L4R) -> Lewis Jones, 200
+Pasajero 429 espera en Pedro Derbes, 1040 (Línea L2R) -> Pedro Derbes, 1102
+Pasajero 430 espera en Manuel Garc�a 705 (Línea L5R) -> Alto R�o Senguer, 1311
+Pasajero 431 espera en Bartolom� Mitre, 610 (Línea L4R) -> 28 De Julio, 200
+Pasajero 432 espera en Esquel, 1352 (Línea L2I) -> Gobernador Alejandro Maiz, 315
+Pasajero 433 espera en Hip�lito Yrigoyen, 457 (Línea L2R) -> Pedro Derbes, 1102
+Pasajero 434 espera en Marcos A. Zar, 461 (Línea L4I) -> Manuel Alsua, 1086
+Pasajero 435 espera en Dorrego, 416 (Línea L1I) -> Mariano Moreno, 193
+Pasajero 436 espera en San Mart�n, 1400 (Línea L1R) -> Soldado Desconocido, 1265
+Pasajero 437 espera en Dorrego, 669 (Línea L6I) -> El Jariyal, 1725
+Pasajero 438 espera en Bartolom� Mitre, 610 (Línea L6R) -> 28 De Julio, 200
+Pasajero 439 espera en Santa Fe, 795 (Línea L1I) -> Dorrego, 416
+Pasajero 440 espera en Manuel Alsua, 1086 (Línea L4R) -> Lewis Jones, 1336
+Pasajero 441 espera en Avenida Julio Argentino Roca, 1567 (Línea L2I) -> Avenida Julio Argentino Roca, 2251
+Pasajero 442 espera en Pedro Derbes, 1102 (Línea L2R) -> Esquel, 1352
+Pasajero 443 espera en Marcos A. Zar, 461 (Línea L6I) -> Dorrego, 669
+Pasajero 444 espera en Lewis Jones, 200 (Línea L4R) -> 28 De Julio, 200
+Pasajero 445 espera en Marcos A. Zar, 461 (Línea L4I) -> Bouchard, 880
+Pasajero 446 espera en Hip�lito Yrigoyen, 457 (Línea L2R) -> 1 De Marzo, 499
+Pasajero 447 espera en 28 De Julio, 311 (Línea L4I) -> Bouchard, 1285
+Pasajero 448 espera en Chiquichan, 22 (Línea L2R) -> Bartolom� Mitre, 401
+Pasajero 449 espera en Rivadavia 2950 (Línea L4I) -> Vito Roca 1106
+Pasajero 450 espera en Manuel Garc�a 705 (Línea L5R) -> Sarmiento, 229
+Pasajero 451 espera en Juan Bautista Alberdi, 1240 (Línea L5I) -> Villegas, 700
+Pasajero 452 espera en Pedro Derbes, 1102 (Línea L2R) -> Pasaje 22 De Abril, 308
+Pasajero 453 espera en Belgrano, 314 (Línea L2I) -> Avenida Julio Argentino Roca, 2251
+Pasajero 454 espera en Marcos A. Zar, 461 (Línea L6I) -> Dorrego, 669
+Pasajero 455 espera en Avenida Julio Argentino Roca, 1615 (Línea L6R) -> 28 De Julio, 200
+Pasajero 456 espera en Marcos A. Zar, 691 (Línea L3I) -> Espa�a, 485
+Pasajero 457 espera en 1 De Marzo, 405 (Línea L6I) -> Los Alamos, 3900
+Pasajero 458 espera en 25 De Mayo, 693 (Línea L1R) -> San Mart�n, 1220
+Pasajero 459 espera en Manuel Carrera, 1534 (Línea L3I) -> Agust�n Pujol, 374
+Pasajero 460 espera en Chiquichan, 22 (Línea L2R) -> Esquel, 1352
+Pasajero 461 espera en Pedro Derbes, 1102 (Línea L2R) -> Pasaje 22 De Abril, 308
+Pasajero 462 espera en Comodoro Mart�n Rivadavia, 750 (Línea L1I) -> Roberto G�mez, 1017
+Pasajero 463 espera en Rivadavia, 2496 (Línea L4R) -> Bartolom� Mitre, 610
+Pasajero 464 espera en Agust�n Pujol, 374 (Línea L3I) -> Dorrego, 700
+Pasajero 465 espera en Bartolom� Mitre, 401 (Línea L2R) -> Avenida Juan Muzzio, 15-198
+Pasajero 466 espera en Belgrano, 314 (Línea L1R) -> Marcos A. Zar, 1980
+Pasajero 467 espera en Vito Roca 705 (Línea L5R) -> Necochea, 1022
+Pasajero 468 espera en 25 De Mayo, 693 (Línea L2I) -> Avenida Julio Argentino Roca, 2251
+Pasajero 469 espera en Rivadavia, 2496 (Línea L4R) -> Mariano Moreno, 193
+Pasajero 470 espera en Rivadavia, 2496 (Línea L1I) -> Comodoro Mart�n Rivadavia, 602
+Pasajero 471 espera en Juli�n Murga, 950 (Línea L1I) -> Comodoro Mart�n Rivadavia, 750
+Pasajero 472 espera en Hip�lito Yrigoyen, 457 (Línea L2R) -> Pedro Derbes, 1040
+Pasajero 473 espera en 28 De Julio, 200 (Línea L2R) -> Pasaje 22 De Abril, 308
+Pasajero 474 espera en 1 De Marzo, 405 (Línea L4I) -> Vito Roca 1106
+Pasajero 475 espera en Pasaje 22 De Abril, 308 (Línea L2R) -> Esquel, 1352
+Pasajero 476 espera en Villegas, 700 (Línea L5I) -> Luis Urtazun, 624
+Pasajero 477 espera en Bartolom� Mitre, 401 (Línea L1I) -> General Mosconi, 100
+Pasajero 478 espera en Pedro Derbes, 1102 (Línea L2R) -> Pasaje 22 De Abril, 308
+Pasajero 479 espera en Belgrano, 314 (Línea L5I) -> 25 De Mayo, 693
+Pasajero 480 espera en Belgrano, 314 (Línea L5I) -> 25 De Mayo, 693
+Pasajero 481 espera en Rivadavia 2950 (Línea L4I) -> Juan Jose Meangolarra Y Moreno, 1005
+Pasajero 482 espera en Belgrano, 314 (Línea L5I) -> 25 De Mayo, 693
+Pasajero 483 espera en 28 De Julio, 200 (Línea L2R) -> Fuerte San Jos�, 742
+Pasajero 484 espera en Lewis Jones, 919 (Línea L4R) -> Lewis Jones, 200
+Pasajero 485 espera en Juan B. Justo, 1172 (Línea L1I) -> Mariano Moreno, 193
+Pasajero 486 espera en Hip�lito Yrigoyen, 457 (Línea L5R) -> Bouchard, 400
+Pasajero 487 espera en La Pampa, 698 (Línea L1R) -> Espa�a, 2375
+Pasajero 488 espera en Esquel, 1352 (Línea L2I) -> Hip�lito Yrigoyen, 802
+Pasajero 489 espera en Pedro Derbes, 660 (Línea L2I) -> Bv. Almirante Brown, 2925
+Pasajero 490 espera en Bouchard, 880 (Línea L4I) -> Rivadavia, 2476
+Pasajero 491 espera en 28 De Julio, 311 (Línea L6I) -> Marcos A. Zar, 461
+Pasajero 492 espera en 1 De Marzo, 405 (Línea L3I) -> Fournier, 1090
+Pasajero 493 espera en Belgrano, 314 (Línea L2I) -> 25 De Mayo, 299
+Pasajero 494 espera en Manuel Alsua, 1086 (Línea L4R) -> Mariano Moreno, 193
+Pasajero 495 espera en Vito Roca 705 (Línea L5R) -> 28 De Julio, 200
+Pasajero 496 espera en Agust�n Pujol, 284 (Línea L3R) -> Ruta Provincial 1
+Pasajero 497 espera en Fuerte San Jos�, 742 (Línea L2R) -> Pasaje 22 De Abril, 308
+Pasajero 498 espera en Bartolom� Mitre, 610 (Línea L6R) -> Bartolom� Mitre, 401
+Pasajero 499 espera en Mariano Moreno, 193 (Línea L4R) -> 28 De Julio, 200
+Pasajero 500 espera en Fuerte San Jos�, 742 (Línea L2R) -> Pasaje 22 De Abril, 308
+
+=== Iniciando recorrido completo para línea Línea L1 - Recorrido 1/2 ===
+
+--- Ida ---
+  Pasajero 470 subió en Rivadavia, 2496
+  ¡ATENCIÓN! 8 pasajeros quedaron esperando en Rivadavia, 2496
+Parada 88 (Rivadavia, 2496): Suben 1, Bajan 0, A bordo: 1
+  Pasajero 439 subió en Santa Fe, 795
+Parada 97 (Santa Fe, 795): Suben 1, Bajan 0, A bordo: 2
+  ¡ATENCIÓN! 1 pasajeros quedaron esperando en Espa�a, 1660
+Parada 44 (Espa�a, 1660): Suben 0, Bajan 0, A bordo: 2
+  Pasajero 189 subió en Espa�a, 1450
+  ¡ATENCIÓN! 4 pasajeros quedaron esperando en Espa�a, 1450
+Parada 43 (Espa�a, 1450): Suben 1, Bajan 0, A bordo: 3
+  Pasajero 153 subió en Espa�a, 928
+  ¡ATENCIÓN! 3 pasajeros quedaron esperando en Espa�a, 928
+Parada 47 (Espa�a, 928): Suben 1, Bajan 0, A bordo: 4
+  Pasajero 53 subió en Juan B. Justo, 1172
+  Pasajero 64 subió en Juan B. Justo, 1172
+  Pasajero 372 subió en Juan B. Justo, 1172
+  Pasajero 485 subió en Juan B. Justo, 1172
+Parada 58 (Juan B. Justo, 1172): Suben 4, Bajan 0, A bordo: 8
+  Pasajero 439 bajó en Dorrego, 416
+  Pasajero 59 subió en Dorrego, 416
+  Pasajero 111 subió en Dorrego, 416
+  Pasajero 435 subió en Dorrego, 416
+Parada 37 (Dorrego, 416): Suben 3, Bajan 1, A bordo: 10
+  Pasajero 54 subió en Marcos A. Zar, 1998
+  Pasajero 72 subió en Marcos A. Zar, 1998
+  Pasajero 263 subió en Marcos A. Zar, 1998
+  Pasajero 285 subió en Marcos A. Zar, 1998
+  Pasajero 403 subió en Marcos A. Zar, 1998
+Parada 74 (Marcos A. Zar, 1998): Suben 5, Bajan 0, A bordo: 15
+  Pasajero 189 bajó en Mariano Moreno, 193
+  Pasajero 485 bajó en Mariano Moreno, 193
+  Pasajero 59 bajó en Mariano Moreno, 193
+  Pasajero 435 bajó en Mariano Moreno, 193
+  Pasajero 72 bajó en Mariano Moreno, 193
+  Pasajero 136 subió en Mariano Moreno, 193
+  ¡ATENCIÓN! 2 pasajeros quedaron esperando en Mariano Moreno, 193
+Parada 77 (Mariano Moreno, 193): Suben 1, Bajan 5, A bordo: 11
+  Pasajero 285 bajó en Bartolom� Mitre, 610
+  Pasajero 119 subió en Bartolom� Mitre, 610
+  Pasajero 294 subió en Bartolom� Mitre, 610
+  ¡ATENCIÓN! 15 pasajeros quedaron esperando en Bartolom� Mitre, 610
+Parada 25 (Bartolom� Mitre, 610): Suben 2, Bajan 1, A bordo: 12
+  Pasajero 245 subió en Bartolom� Mitre, 401
+  Pasajero 310 subió en Bartolom� Mitre, 401
+  Pasajero 477 subió en Bartolom� Mitre, 401
+  ¡ATENCIÓN! 11 pasajeros quedaron esperando en Bartolom� Mitre, 401
+Parada 24 (Bartolom� Mitre, 401): Suben 3, Bajan 0, A bordo: 15
+  Pasajero 212 subió en 28 De Julio, 200
+  ¡ATENCIÓN! 20 pasajeros quedaron esperando en 28 De Julio, 200
+Parada 5 (28 De Julio, 200): Suben 1, Bajan 0, A bordo: 16
+  Pasajero 64 bajó en General Mosconi, 100
+  Pasajero 403 bajó en General Mosconi, 100
+  Pasajero 245 bajó en General Mosconi, 100
+  Pasajero 310 bajó en General Mosconi, 100
+  Pasajero 477 bajó en General Mosconi, 100
+  Pasajero 125 subió en General Mosconi, 100
+Parada 52 (General Mosconi, 100): Suben 1, Bajan 5, A bordo: 12
+  Pasajero 153 bajó en Avenida Domec Garc�a Norte, 239
+  Pasajero 53 bajó en Avenida Domec Garc�a Norte, 239
+  Pasajero 54 bajó en Avenida Domec Garc�a Norte, 239
+  Pasajero 28 subió en Avenida Domec Garc�a Norte, 239
+Parada 14 (Avenida Domec Garc�a Norte, 239): Suben 1, Bajan 3, A bordo: 10
+  Pasajero 294 bajó en Juli�n Murga, 950
+  Pasajero 125 bajó en Juli�n Murga, 950
+  Pasajero 28 bajó en Juli�n Murga, 950
+  Pasajero 37 subió en Juli�n Murga, 950
+  Pasajero 178 subió en Juli�n Murga, 950
+  Pasajero 471 subió en Juli�n Murga, 950
+Parada 61 (Juli�n Murga, 950): Suben 3, Bajan 3, A bordo: 10
+  Pasajero 372 bajó en Comodoro Mart�n Rivadavia, 750
+  Pasajero 111 bajó en Comodoro Mart�n Rivadavia, 750
+  Pasajero 212 bajó en Comodoro Mart�n Rivadavia, 750
+  Pasajero 37 bajó en Comodoro Mart�n Rivadavia, 750
+  Pasajero 471 bajó en Comodoro Mart�n Rivadavia, 750
+  Pasajero 12 subió en Comodoro Mart�n Rivadavia, 750
+  Pasajero 51 subió en Comodoro Mart�n Rivadavia, 750
+  Pasajero 324 subió en Comodoro Mart�n Rivadavia, 750
+  Pasajero 462 subió en Comodoro Mart�n Rivadavia, 750
+Parada 35 (Comodoro Mart�n Rivadavia, 750): Suben 4, Bajan 5, A bordo: 9
+  Pasajero 470 bajó en Comodoro Mart�n Rivadavia, 602
+  Pasajero 263 bajó en Comodoro Mart�n Rivadavia, 602
+  Pasajero 178 bajó en Comodoro Mart�n Rivadavia, 602
+  Pasajero 324 bajó en Comodoro Mart�n Rivadavia, 602
+  Pasajero 22 subió en Comodoro Mart�n Rivadavia, 602
+  Pasajero 30 subió en Comodoro Mart�n Rivadavia, 602
+  Pasajero 255 subió en Comodoro Mart�n Rivadavia, 602
+  Pasajero 283 subió en Comodoro Mart�n Rivadavia, 602
+Parada 34 (Comodoro Mart�n Rivadavia, 602): Suben 4, Bajan 4, A bordo: 9
+  Pasajero 136 bajó en Roberto G�mez, 1017
+  Pasajero 119 bajó en Roberto G�mez, 1017
+  Pasajero 12 bajó en Roberto G�mez, 1017
+  Pasajero 51 bajó en Roberto G�mez, 1017
+  Pasajero 462 bajó en Roberto G�mez, 1017
+  Pasajero 22 bajó en Roberto G�mez, 1017
+  Pasajero 30 bajó en Roberto G�mez, 1017
+  Pasajero 255 bajó en Roberto G�mez, 1017
+  Pasajero 283 bajó en Roberto G�mez, 1017
+  ¡ATENCIÓN! 2 pasajeros quedaron esperando en Roberto G�mez, 1017
+Parada 89 (Roberto G�mez, 1017): Suben 0, Bajan 9, A bordo: 0
+
+--- Vuelta ---
+  Pasajero 58 subió en Roberto G�mez, 1017
+  Pasajero 207 subió en Roberto G�mez, 1017
+Parada 89 (Roberto G�mez, 1017): Suben 2, Bajan 0, A bordo: 2
+  Pasajero 90 subió en Pedro Derbes, 816
+  Pasajero 231 subió en Pedro Derbes, 816
+  Pasajero 331 subió en Pedro Derbes, 816
+  ¡ATENCIÓN! 1 pasajeros quedaron esperando en Pedro Derbes, 816
+Parada 84 (Pedro Derbes, 816): Suben 3, Bajan 0, A bordo: 5
+  ¡ATENCIÓN! 4 pasajeros quedaron esperando en Pedro Derbes, 660
+Parada 83 (Pedro Derbes, 660): Suben 0, Bajan 0, A bordo: 5
+  Pasajero 196 subió en Roberto G�mez, 550
+  ¡ATENCIÓN! 7 pasajeros quedaron esperando en Roberto G�mez, 550
+Parada 90 (Roberto G�mez, 550): Suben 1, Bajan 0, A bordo: 6
+  Pasajero 50 subió en Avenida Juan Muzzio, 258
+  Pasajero 224 subió en Avenida Juan Muzzio, 258
+  ¡ATENCIÓN! 4 pasajeros quedaron esperando en Avenida Juan Muzzio, 258
+Parada 16 (Avenida Juan Muzzio, 258): Suben 2, Bajan 0, A bordo: 8
+  Pasajero 196 bajó en Avenida Juan Muzzio, 482
+  Pasajero 52 subió en Avenida Juan Muzzio, 482
+  Pasajero 132 subió en Avenida Juan Muzzio, 482
+  ¡ATENCIÓN! 5 pasajeros quedaron esperando en Avenida Juan Muzzio, 482
+Parada 17 (Avenida Juan Muzzio, 482): Suben 2, Bajan 1, A bordo: 9
+  Pasajero 224 bajó en Gobernador Alejandro Maiz, 315
+  Pasajero 8 subió en Gobernador Alejandro Maiz, 315
+  Pasajero 370 subió en Gobernador Alejandro Maiz, 315
+  ¡ATENCIÓN! 6 pasajeros quedaron esperando en Gobernador Alejandro Maiz, 315
+Parada 53 (Gobernador Alejandro Maiz, 315): Suben 2, Bajan 1, A bordo: 10
+  Pasajero 207 bajó en Belgrano, 314
+  Pasajero 466 subió en Belgrano, 314
+  ¡ATENCIÓN! 15 pasajeros quedaron esperando en Belgrano, 314
+Parada 26 (Belgrano, 314): Suben 1, Bajan 1, A bordo: 10
+  Pasajero 252 subió en 25 De Mayo, 299
+  Pasajero 353 subió en 25 De Mayo, 299
+  ¡ATENCIÓN! 10 pasajeros quedaron esperando en 25 De Mayo, 299
+Parada 3 (25 De Mayo, 299): Suben 2, Bajan 0, A bordo: 12
+  Pasajero 132 bajó en 25 De Mayo, 693
+  Pasajero 76 subió en 25 De Mayo, 693
+  Pasajero 219 subió en 25 De Mayo, 693
+  Pasajero 458 subió en 25 De Mayo, 693
+  ¡ATENCIÓN! 6 pasajeros quedaron esperando en 25 De Mayo, 693
+Parada 4 (25 De Mayo, 693): Suben 3, Bajan 1, A bordo: 14
+  Pasajero 163 subió en Dorrego, 109
+Parada 36 (Dorrego, 109): Suben 1, Bajan 0, A bordo: 15
+  Pasajero 58 bajó en Marcos A. Zar, 1980
+  Pasajero 331 bajó en Marcos A. Zar, 1980
+  Pasajero 50 bajó en Marcos A. Zar, 1980
+  Pasajero 466 bajó en Marcos A. Zar, 1980
+  Pasajero 89 subió en Marcos A. Zar, 1980
+  Pasajero 354 subió en Marcos A. Zar, 1980
+  Pasajero 395 subió en Marcos A. Zar, 1980
+  Pasajero 415 subió en Marcos A. Zar, 1980
+Parada 73 (Marcos A. Zar, 1980): Suben 4, Bajan 4, A bordo: 15
+  Pasajero 76 bajó en San Mart�n, 1400
+  Pasajero 436 subió en San Mart�n, 1400
+Parada 96 (San Mart�n, 1400): Suben 1, Bajan 1, A bordo: 15
+  Pasajero 8 bajó en San Mart�n, 1220
+  Pasajero 458 bajó en San Mart�n, 1220
+  Pasajero 200 subió en San Mart�n, 1220
+Parada 95 (San Mart�n, 1220): Suben 1, Bajan 2, A bordo: 14
+  Pasajero 48 subió en Espa�a, 485
+  ¡ATENCIÓN! 4 pasajeros quedaron esperando en Espa�a, 485
+Parada 46 (Espa�a, 485): Suben 1, Bajan 0, A bordo: 15
+  Pasajero 395 bajó en Villegas, 700
+  Pasajero 48 bajó en Villegas, 700
+  ¡ATENCIÓN! 4 pasajeros quedaron esperando en Villegas, 700
+Parada 102 (Villegas, 700): Suben 0, Bajan 2, A bordo: 13
+  Pasajero 90 bajó en Espa�a, 1431
+  Pasajero 370 bajó en Espa�a, 1431
+  Pasajero 353 bajó en Espa�a, 1431
+  Pasajero 354 bajó en Espa�a, 1431
+  Pasajero 200 bajó en Espa�a, 1431
+  ¡ATENCIÓN! 3 pasajeros quedaron esperando en Espa�a, 1431
+Parada 42 (Espa�a, 1431): Suben 0, Bajan 5, A bordo: 8
+  Pasajero 231 bajó en La Pampa, 698
+  Pasajero 252 bajó en La Pampa, 698
+  Pasajero 219 bajó en La Pampa, 698
+  Pasajero 313 subió en La Pampa, 698
+  Pasajero 487 subió en La Pampa, 698
+Parada 62 (La Pampa, 698): Suben 2, Bajan 3, A bordo: 7
+  Pasajero 163 bajó en Espa�a, 2375
+  Pasajero 89 bajó en Espa�a, 2375
+  Pasajero 313 bajó en Espa�a, 2375
+  Pasajero 487 bajó en Espa�a, 2375
+  Pasajero 246 subió en Espa�a, 2375
+  Pasajero 357 subió en Espa�a, 2375
+Parada 45 (Espa�a, 2375): Suben 2, Bajan 4, A bordo: 5
+  Pasajero 52 bajó en Soldado Desconocido, 1265
+  Pasajero 415 bajó en Soldado Desconocido, 1265
+  Pasajero 436 bajó en Soldado Desconocido, 1265
+  Pasajero 246 bajó en Soldado Desconocido, 1265
+  Pasajero 357 bajó en Soldado Desconocido, 1265
+Parada 100 (Soldado Desconocido, 1265): Suben 0, Bajan 5, A bordo: 0
+
+=== Iniciando recorrido completo para línea Línea L1 - Recorrido 2/2 ===
+
+--- Ida ---
+  ¡ATENCIÓN! 8 pasajeros quedaron esperando en Rivadavia, 2496
+Parada 88 (Rivadavia, 2496): Suben 0, Bajan 0, A bordo: 0
+Parada 97 (Santa Fe, 795): Suben 0, Bajan 0, A bordo: 0
+  ¡ATENCIÓN! 1 pasajeros quedaron esperando en Espa�a, 1660
+Parada 44 (Espa�a, 1660): Suben 0, Bajan 0, A bordo: 0
+  ¡ATENCIÓN! 4 pasajeros quedaron esperando en Espa�a, 1450
+Parada 43 (Espa�a, 1450): Suben 0, Bajan 0, A bordo: 0
+  ¡ATENCIÓN! 3 pasajeros quedaron esperando en Espa�a, 928
+Parada 47 (Espa�a, 928): Suben 0, Bajan 0, A bordo: 0
+Parada 58 (Juan B. Justo, 1172): Suben 0, Bajan 0, A bordo: 0
+Parada 37 (Dorrego, 416): Suben 0, Bajan 0, A bordo: 0
+Parada 74 (Marcos A. Zar, 1998): Suben 0, Bajan 0, A bordo: 0
+  ¡ATENCIÓN! 2 pasajeros quedaron esperando en Mariano Moreno, 193
+Parada 77 (Mariano Moreno, 193): Suben 0, Bajan 0, A bordo: 0
+  ¡ATENCIÓN! 15 pasajeros quedaron esperando en Bartolom� Mitre, 610
+Parada 25 (Bartolom� Mitre, 610): Suben 0, Bajan 0, A bordo: 0
+  ¡ATENCIÓN! 11 pasajeros quedaron esperando en Bartolom� Mitre, 401
+Parada 24 (Bartolom� Mitre, 401): Suben 0, Bajan 0, A bordo: 0
+  ¡ATENCIÓN! 20 pasajeros quedaron esperando en 28 De Julio, 200
+Parada 5 (28 De Julio, 200): Suben 0, Bajan 0, A bordo: 0
+Parada 52 (General Mosconi, 100): Suben 0, Bajan 0, A bordo: 0
+Parada 14 (Avenida Domec Garc�a Norte, 239): Suben 0, Bajan 0, A bordo: 0
+Parada 61 (Juli�n Murga, 950): Suben 0, Bajan 0, A bordo: 0
+Parada 35 (Comodoro Mart�n Rivadavia, 750): Suben 0, Bajan 0, A bordo: 0
+Parada 34 (Comodoro Mart�n Rivadavia, 602): Suben 0, Bajan 0, A bordo: 0
+Parada 89 (Roberto G�mez, 1017): Suben 0, Bajan 0, A bordo: 0
+
+--- Vuelta ---
+Parada 89 (Roberto G�mez, 1017): Suben 0, Bajan 0, A bordo: 0
+  ¡ATENCIÓN! 1 pasajeros quedaron esperando en Pedro Derbes, 816
+Parada 84 (Pedro Derbes, 816): Suben 0, Bajan 0, A bordo: 0
+  ¡ATENCIÓN! 4 pasajeros quedaron esperando en Pedro Derbes, 660
+Parada 83 (Pedro Derbes, 660): Suben 0, Bajan 0, A bordo: 0
+  ¡ATENCIÓN! 7 pasajeros quedaron esperando en Roberto G�mez, 550
+Parada 90 (Roberto G�mez, 550): Suben 0, Bajan 0, A bordo: 0
+  ¡ATENCIÓN! 4 pasajeros quedaron esperando en Avenida Juan Muzzio, 258
+Parada 16 (Avenida Juan Muzzio, 258): Suben 0, Bajan 0, A bordo: 0
+  ¡ATENCIÓN! 5 pasajeros quedaron esperando en Avenida Juan Muzzio, 482
+Parada 17 (Avenida Juan Muzzio, 482): Suben 0, Bajan 0, A bordo: 0
+  ¡ATENCIÓN! 6 pasajeros quedaron esperando en Gobernador Alejandro Maiz, 315
+Parada 53 (Gobernador Alejandro Maiz, 315): Suben 0, Bajan 0, A bordo: 0
+  ¡ATENCIÓN! 15 pasajeros quedaron esperando en Belgrano, 314
+Parada 26 (Belgrano, 314): Suben 0, Bajan 0, A bordo: 0
+  ¡ATENCIÓN! 10 pasajeros quedaron esperando en 25 De Mayo, 299
+Parada 3 (25 De Mayo, 299): Suben 0, Bajan 0, A bordo: 0
+  ¡ATENCIÓN! 6 pasajeros quedaron esperando en 25 De Mayo, 693
+Parada 4 (25 De Mayo, 693): Suben 0, Bajan 0, A bordo: 0
+Parada 36 (Dorrego, 109): Suben 0, Bajan 0, A bordo: 0
+Parada 73 (Marcos A. Zar, 1980): Suben 0, Bajan 0, A bordo: 0
+Parada 96 (San Mart�n, 1400): Suben 0, Bajan 0, A bordo: 0
+Parada 95 (San Mart�n, 1220): Suben 0, Bajan 0, A bordo: 0
+  ¡ATENCIÓN! 4 pasajeros quedaron esperando en Espa�a, 485
+Parada 46 (Espa�a, 485): Suben 0, Bajan 0, A bordo: 0
+  ¡ATENCIÓN! 4 pasajeros quedaron esperando en Villegas, 700
+Parada 102 (Villegas, 700): Suben 0, Bajan 0, A bordo: 0
+  ¡ATENCIÓN! 3 pasajeros quedaron esperando en Espa�a, 1431
+Parada 42 (Espa�a, 1431): Suben 0, Bajan 0, A bordo: 0
+Parada 62 (La Pampa, 698): Suben 0, Bajan 0, A bordo: 0
+Parada 45 (Espa�a, 2375): Suben 0, Bajan 0, A bordo: 0
+Parada 100 (Soldado Desconocido, 1265): Suben 0, Bajan 0, A bordo: 0
+
+=== Iniciando recorrido completo para línea Línea L2 - Recorrido 1/5 ===
+
+--- Ida ---
+  Pasajero 197 subió en Esquel, 1352
+  Pasajero 432 subió en Esquel, 1352
+  Pasajero 488 subió en Esquel, 1352
+  ¡ATENCIÓN! 5 pasajeros quedaron esperando en Esquel, 1352
+Parada 48 (Esquel, 1352): Suben 3, Bajan 0, A bordo: 3
+  Pasajero 336 subió en Alto R�o Senguer, 1311
+Parada 13 (Alto R�o Senguer, 1311): Suben 1, Bajan 0, A bordo: 4
+  Pasajero 127 subió en Pasaje 22 De Abril, 167
+  Pasajero 210 subió en Pasaje 22 De Abril, 167
+  Pasajero 307 subió en Pasaje 22 De Abril, 167
+  Pasajero 393 subió en Pasaje 22 De Abril, 167
+Parada 79 (Pasaje 22 De Abril, 167): Suben 4, Bajan 0, A bordo: 8
+  Pasajero 197 bajó en 8 De Marzo, 385
+  Pasajero 158 subió en 8 De Marzo, 385
+  Pasajero 201 subió en 8 De Marzo, 385
+  Pasajero 228 subió en 8 De Marzo, 385
+Parada 7 (8 De Marzo, 385): Suben 3, Bajan 1, A bordo: 10
+  Pasajero 127 bajó en Pedro Derbes, 816
+  Pasajero 236 subió en Pedro Derbes, 816
+Parada 84 (Pedro Derbes, 816): Suben 1, Bajan 1, A bordo: 10
+  Pasajero 236 bajó en Pedro Derbes, 660
+  Pasajero 15 subió en Pedro Derbes, 660
+  Pasajero 174 subió en Pedro Derbes, 660
+  Pasajero 242 subió en Pedro Derbes, 660
+  Pasajero 489 subió en Pedro Derbes, 660
+Parada 83 (Pedro Derbes, 660): Suben 4, Bajan 1, A bordo: 13
+  Pasajero 71 subió en Roberto G�mez, 550
+  Pasajero 96 subió en Roberto G�mez, 550
+  Pasajero 107 subió en Roberto G�mez, 550
+  Pasajero 131 subió en Roberto G�mez, 550
+  Pasajero 302 subió en Roberto G�mez, 550
+  Pasajero 315 subió en Roberto G�mez, 550
+  Pasajero 349 subió en Roberto G�mez, 550
+Parada 90 (Roberto G�mez, 550): Suben 7, Bajan 0, A bordo: 20
+  Pasajero 15 bajó en Avenida Juan Muzzio, 258
+  Pasajero 302 bajó en Avenida Juan Muzzio, 258
+  Pasajero 3 subió en Avenida Juan Muzzio, 258
+  Pasajero 83 subió en Avenida Juan Muzzio, 258
+  Pasajero 364 subió en Avenida Juan Muzzio, 258
+  Pasajero 407 subió en Avenida Juan Muzzio, 258
+Parada 16 (Avenida Juan Muzzio, 258): Suben 4, Bajan 2, A bordo: 22
+  Pasajero 210 bajó en Avenida Juan Muzzio, 482
+  Pasajero 31 subió en Avenida Juan Muzzio, 482
+  Pasajero 69 subió en Avenida Juan Muzzio, 482
+  Pasajero 91 subió en Avenida Juan Muzzio, 482
+  Pasajero 184 subió en Avenida Juan Muzzio, 482
+  Pasajero 249 subió en Avenida Juan Muzzio, 482
+Parada 17 (Avenida Juan Muzzio, 482): Suben 5, Bajan 1, A bordo: 26
+  Pasajero 488 bajó en Hip�lito Yrigoyen, 802
+  Pasajero 23 subió en Hip�lito Yrigoyen, 802
+  ¡ATENCIÓN! 4 pasajeros quedaron esperando en Hip�lito Yrigoyen, 802
+Parada 55 (Hip�lito Yrigoyen, 802): Suben 1, Bajan 1, A bordo: 26
+  Pasajero 432 bajó en Gobernador Alejandro Maiz, 315
+  Pasajero 131 bajó en Gobernador Alejandro Maiz, 315
+  Pasajero 315 bajó en Gobernador Alejandro Maiz, 315
+  Pasajero 69 bajó en Gobernador Alejandro Maiz, 315
+  Pasajero 24 subió en Gobernador Alejandro Maiz, 315
+  Pasajero 366 subió en Gobernador Alejandro Maiz, 315
+  Pasajero 421 subió en Gobernador Alejandro Maiz, 315
+  ¡ATENCIÓN! 3 pasajeros quedaron esperando en Gobernador Alejandro Maiz, 315
+Parada 53 (Gobernador Alejandro Maiz, 315): Suben 3, Bajan 4, A bordo: 25
+  Pasajero 228 bajó en Belgrano, 314
+  Pasajero 242 bajó en Belgrano, 314
+  Pasajero 107 bajó en Belgrano, 314
+  Pasajero 23 bajó en Belgrano, 314
+  Pasajero 35 subió en Belgrano, 314
+  Pasajero 40 subió en Belgrano, 314
+  Pasajero 144 subió en Belgrano, 314
+  Pasajero 194 subió en Belgrano, 314
+  Pasajero 241 subió en Belgrano, 314
+  Pasajero 453 subió en Belgrano, 314
+  Pasajero 493 subió en Belgrano, 314
+  ¡ATENCIÓN! 8 pasajeros quedaron esperando en Belgrano, 314
+Parada 26 (Belgrano, 314): Suben 7, Bajan 4, A bordo: 28
+  Pasajero 158 bajó en 25 De Mayo, 299
+  Pasajero 349 bajó en 25 De Mayo, 299
+  Pasajero 3 bajó en 25 De Mayo, 299
+  Pasajero 83 bajó en 25 De Mayo, 299
+  Pasajero 249 bajó en 25 De Mayo, 299
+  Pasajero 493 bajó en 25 De Mayo, 299
+  Pasajero 99 subió en 25 De Mayo, 299
+  Pasajero 105 subió en 25 De Mayo, 299
+  Pasajero 192 subió en 25 De Mayo, 299
+  Pasajero 276 subió en 25 De Mayo, 299
+  Pasajero 298 subió en 25 De Mayo, 299
+  ¡ATENCIÓN! 5 pasajeros quedaron esperando en 25 De Mayo, 299
+Parada 3 (25 De Mayo, 299): Suben 5, Bajan 6, A bordo: 27
+  Pasajero 336 bajó en 25 De Mayo, 693
+  Pasajero 174 bajó en 25 De Mayo, 693
+  Pasajero 366 bajó en 25 De Mayo, 693
+  Pasajero 105 bajó en 25 De Mayo, 693
+  Pasajero 192 bajó en 25 De Mayo, 693
+  Pasajero 114 subió en 25 De Mayo, 693
+  Pasajero 468 subió en 25 De Mayo, 693
+  ¡ATENCIÓN! 4 pasajeros quedaron esperando en 25 De Mayo, 693
+Parada 4 (25 De Mayo, 693): Suben 2, Bajan 5, A bordo: 24
+  Pasajero 307 bajó en Avenida Julio Argentino Roca, 1567
+  Pasajero 421 bajó en Avenida Julio Argentino Roca, 1567
+  Pasajero 35 bajó en Avenida Julio Argentino Roca, 1567
+  Pasajero 40 bajó en Avenida Julio Argentino Roca, 1567
+  Pasajero 298 bajó en Avenida Julio Argentino Roca, 1567
+  Pasajero 273 subió en Avenida Julio Argentino Roca, 1567
+  Pasajero 326 subió en Avenida Julio Argentino Roca, 1567
+  Pasajero 441 subió en Avenida Julio Argentino Roca, 1567
+Parada 19 (Avenida Julio Argentino Roca, 1567): Suben 3, Bajan 5, A bordo: 22
+  Pasajero 201 bajó en Avenida Julio Argentino Roca, 2251
+  Pasajero 96 bajó en Avenida Julio Argentino Roca, 2251
+  Pasajero 407 bajó en Avenida Julio Argentino Roca, 2251
+  Pasajero 453 bajó en Avenida Julio Argentino Roca, 2251
+  Pasajero 114 bajó en Avenida Julio Argentino Roca, 2251
+  Pasajero 468 bajó en Avenida Julio Argentino Roca, 2251
+  Pasajero 441 bajó en Avenida Julio Argentino Roca, 2251
+  Pasajero 4 subió en Avenida Julio Argentino Roca, 2251
+  Pasajero 123 subió en Avenida Julio Argentino Roca, 2251
+Parada 21 (Avenida Julio Argentino Roca, 2251): Suben 2, Bajan 7, A bordo: 17
+  Pasajero 91 bajó en Abraham Mathews, 2525
+  Pasajero 184 bajó en Abraham Mathews, 2525
+  Pasajero 241 bajó en Abraham Mathews, 2525
+  Pasajero 276 bajó en Abraham Mathews, 2525
+  Pasajero 4 bajó en Abraham Mathews, 2525
+  Pasajero 106 subió en Abraham Mathews, 2525
+Parada 9 (Abraham Mathews, 2525): Suben 1, Bajan 5, A bordo: 13
+  Pasajero 489 bajó en Bv. Almirante Brown, 2925
+  Pasajero 71 bajó en Bv. Almirante Brown, 2925
+  Pasajero 364 bajó en Bv. Almirante Brown, 2925
+  Pasajero 31 bajó en Bv. Almirante Brown, 2925
+  Pasajero 144 bajó en Bv. Almirante Brown, 2925
+  Pasajero 194 bajó en Bv. Almirante Brown, 2925
+  Pasajero 326 bajó en Bv. Almirante Brown, 2925
+  Pasajero 106 bajó en Bv. Almirante Brown, 2925
+  Pasajero 216 subió en Bv. Almirante Brown, 2925
+  Pasajero 325 subió en Bv. Almirante Brown, 2925
+  Pasajero 362 subió en Bv. Almirante Brown, 2925
+Parada 30 (Bv. Almirante Brown, 2925): Suben 3, Bajan 8, A bordo: 8
+  Pasajero 393 bajó en Bv. Almirante Brown, 3053
+  Pasajero 24 bajó en Bv. Almirante Brown, 3053
+  Pasajero 99 bajó en Bv. Almirante Brown, 3053
+  Pasajero 273 bajó en Bv. Almirante Brown, 3053
+  Pasajero 123 bajó en Bv. Almirante Brown, 3053
+  Pasajero 216 bajó en Bv. Almirante Brown, 3053
+  Pasajero 325 bajó en Bv. Almirante Brown, 3053
+  Pasajero 362 bajó en Bv. Almirante Brown, 3053
+  ¡ATENCIÓN! 5 pasajeros quedaron esperando en Bv. Almirante Brown, 3053
+Parada 31 (Bv. Almirante Brown, 3053): Suben 0, Bajan 8, A bordo: 0
+
+--- Vuelta ---
+  Pasajero 32 subió en Bv. Almirante Brown, 3053
+  Pasajero 162 subió en Bv. Almirante Brown, 3053
+  Pasajero 195 subió en Bv. Almirante Brown, 3053
+  Pasajero 272 subió en Bv. Almirante Brown, 3053
+  Pasajero 402 subió en Bv. Almirante Brown, 3053
+Parada 31 (Bv. Almirante Brown, 3053): Suben 5, Bajan 0, A bordo: 5
+  Pasajero 79 subió en Aar�n Jenkins, 219
+  Pasajero 102 subió en Aar�n Jenkins, 219
+  Pasajero 164 subió en Aar�n Jenkins, 219
+  Pasajero 253 subió en Aar�n Jenkins, 219
+  Pasajero 333 subió en Aar�n Jenkins, 219
+  Pasajero 390 subió en Aar�n Jenkins, 219
+  Pasajero 419 subió en Aar�n Jenkins, 219
+Parada 8 (Aar�n Jenkins, 219): Suben 7, Bajan 0, A bordo: 12
+  Pasajero 162 bajó en Chiquichan, 22
+  Pasajero 390 bajó en Chiquichan, 22
+  Pasajero 42 subió en Chiquichan, 22
+  Pasajero 63 subió en Chiquichan, 22
+  Pasajero 284 subió en Chiquichan, 22
+  Pasajero 295 subió en Chiquichan, 22
+  Pasajero 300 subió en Chiquichan, 22
+  Pasajero 334 subió en Chiquichan, 22
+  Pasajero 359 subió en Chiquichan, 22
+  Pasajero 448 subió en Chiquichan, 22
+  Pasajero 460 subió en Chiquichan, 22
+  ¡ATENCIÓN! 1 pasajeros quedaron esperando en Chiquichan, 22
+Parada 33 (Chiquichan, 22): Suben 9, Bajan 2, A bordo: 19
+  Pasajero 300 bajó en Avenida Julio Argentino Roca, 1615
+  Pasajero 130 subió en Avenida Julio Argentino Roca, 1615
+  Pasajero 215 subió en Avenida Julio Argentino Roca, 1615
+  Pasajero 223 subió en Avenida Julio Argentino Roca, 1615
+  Pasajero 317 subió en Avenida Julio Argentino Roca, 1615
+  ¡ATENCIÓN! 3 pasajeros quedaron esperando en Avenida Julio Argentino Roca, 1615
+Parada 20 (Avenida Julio Argentino Roca, 1615): Suben 4, Bajan 1, A bordo: 22
+  Pasajero 195 bajó en Bartolom� Mitre, 610
+  Pasajero 215 bajó en Bartolom� Mitre, 610
+  Pasajero 223 bajó en Bartolom� Mitre, 610
+  Pasajero 142 subió en Bartolom� Mitre, 610
+  Pasajero 309 subió en Bartolom� Mitre, 610
+  Pasajero 322 subió en Bartolom� Mitre, 610
+  Pasajero 386 subió en Bartolom� Mitre, 610
+  ¡ATENCIÓN! 11 pasajeros quedaron esperando en Bartolom� Mitre, 610
+Parada 25 (Bartolom� Mitre, 610): Suben 4, Bajan 3, A bordo: 23
+  Pasajero 295 bajó en Bartolom� Mitre, 401
+  Pasajero 448 bajó en Bartolom� Mitre, 401
+  Pasajero 167 subió en Bartolom� Mitre, 401
+  Pasajero 261 subió en Bartolom� Mitre, 401
+  Pasajero 293 subió en Bartolom� Mitre, 401
+  Pasajero 312 subió en Bartolom� Mitre, 401
+  Pasajero 396 subió en Bartolom� Mitre, 401
+  Pasajero 465 subió en Bartolom� Mitre, 401
+  ¡ATENCIÓN! 5 pasajeros quedaron esperando en Bartolom� Mitre, 401
+Parada 24 (Bartolom� Mitre, 401): Suben 6, Bajan 2, A bordo: 27
+  Pasajero 32 bajó en 28 De Julio, 200
+  Pasajero 272 bajó en 28 De Julio, 200
+  Pasajero 102 bajó en 28 De Julio, 200
+  Pasajero 253 bajó en 28 De Julio, 200
+  Pasajero 130 bajó en 28 De Julio, 200
+  Pasajero 29 subió en 28 De Julio, 200
+  Pasajero 110 subió en 28 De Julio, 200
+  Pasajero 141 subió en 28 De Julio, 200
+  Pasajero 222 subió en 28 De Julio, 200
+  Pasajero 269 subió en 28 De Julio, 200
+  Pasajero 301 subió en 28 De Julio, 200
+  Pasajero 319 subió en 28 De Julio, 200
+  Pasajero 473 subió en 28 De Julio, 200
+  ¡ATENCIÓN! 12 pasajeros quedaron esperando en 28 De Julio, 200
+Parada 5 (28 De Julio, 200): Suben 8, Bajan 5, A bordo: 30
+  ¡ATENCIÓN! 12 pasajeros quedaron esperando en Hip�lito Yrigoyen, 457
+Parada 54 (Hip�lito Yrigoyen, 457): Suben 0, Bajan 0, A bordo: 30
+  Pasajero 419 bajó en 1 De Marzo, 499
+  Pasajero 317 bajó en 1 De Marzo, 499
+  Pasajero 61 subió en 1 De Marzo, 499
+  Pasajero 154 subió en 1 De Marzo, 499
+  ¡ATENCIÓN! 6 pasajeros quedaron esperando en 1 De Marzo, 499
+Parada 2 (1 De Marzo, 499): Suben 2, Bajan 2, A bordo: 30
+  Pasajero 402 bajó en Fuerte San Jos�, 742
+  Pasajero 79 bajó en Fuerte San Jos�, 742
+  Pasajero 167 bajó en Fuerte San Jos�, 742
+  Pasajero 141 bajó en Fuerte San Jos�, 742
+  Pasajero 301 bajó en Fuerte San Jos�, 742
+  Pasajero 133 subió en Fuerte San Jos�, 742
+  Pasajero 169 subió en Fuerte San Jos�, 742
+  Pasajero 221 subió en Fuerte San Jos�, 742
+  Pasajero 262 subió en Fuerte San Jos�, 742
+  Pasajero 316 subió en Fuerte San Jos�, 742
+  ¡ATENCIÓN! 2 pasajeros quedaron esperando en Fuerte San Jos�, 742
+Parada 51 (Fuerte San Jos�, 742): Suben 5, Bajan 5, A bordo: 30
+  Pasajero 359 bajó en Avenida Juan Muzzio, 15-198
+  Pasajero 322 bajó en Avenida Juan Muzzio, 15-198
+  Pasajero 386 bajó en Avenida Juan Muzzio, 15-198
+  Pasajero 312 bajó en Avenida Juan Muzzio, 15-198
+  Pasajero 396 bajó en Avenida Juan Muzzio, 15-198
+  Pasajero 465 bajó en Avenida Juan Muzzio, 15-198
+  Pasajero 29 bajó en Avenida Juan Muzzio, 15-198
+  Pasajero 165 subió en Avenida Juan Muzzio, 15-198
+  Pasajero 181 subió en Avenida Juan Muzzio, 15-198
+  Pasajero 244 subió en Avenida Juan Muzzio, 15-198
+  Pasajero 304 subió en Avenida Juan Muzzio, 15-198
+Parada 15 (Avenida Juan Muzzio, 15-198): Suben 4, Bajan 7, A bordo: 27
+  Pasajero 63 bajó en Pedro Derbes, 1040
+  Pasajero 334 bajó en Pedro Derbes, 1040
+  Pasajero 293 bajó en Pedro Derbes, 1040
+  Pasajero 110 bajó en Pedro Derbes, 1040
+  Pasajero 319 bajó en Pedro Derbes, 1040
+  Pasajero 181 bajó en Pedro Derbes, 1040
+  Pasajero 19 subió en Pedro Derbes, 1040
+  Pasajero 157 subió en Pedro Derbes, 1040
+  Pasajero 160 subió en Pedro Derbes, 1040
+  Pasajero 388 subió en Pedro Derbes, 1040
+  Pasajero 417 subió en Pedro Derbes, 1040
+  Pasajero 429 subió en Pedro Derbes, 1040
+Parada 81 (Pedro Derbes, 1040): Suben 6, Bajan 6, A bordo: 27
+  Pasajero 284 bajó en Pedro Derbes, 1102
+  Pasajero 309 bajó en Pedro Derbes, 1102
+  Pasajero 169 bajó en Pedro Derbes, 1102
+  Pasajero 304 bajó en Pedro Derbes, 1102
+  Pasajero 429 bajó en Pedro Derbes, 1102
+  Pasajero 38 subió en Pedro Derbes, 1102
+  Pasajero 350 subió en Pedro Derbes, 1102
+  Pasajero 404 subió en Pedro Derbes, 1102
+  Pasajero 442 subió en Pedro Derbes, 1102
+  Pasajero 452 subió en Pedro Derbes, 1102
+  Pasajero 461 subió en Pedro Derbes, 1102
+  Pasajero 478 subió en Pedro Derbes, 1102
+Parada 82 (Pedro Derbes, 1102): Suben 7, Bajan 5, A bordo: 29
+  Pasajero 164 bajó en Pasaje 22 De Abril, 308
+  Pasajero 333 bajó en Pasaje 22 De Abril, 308
+  Pasajero 42 bajó en Pasaje 22 De Abril, 308
+  Pasajero 269 bajó en Pasaje 22 De Abril, 308
+  Pasajero 473 bajó en Pasaje 22 De Abril, 308
+  Pasajero 154 bajó en Pasaje 22 De Abril, 308
+  Pasajero 221 bajó en Pasaje 22 De Abril, 308
+  Pasajero 316 bajó en Pasaje 22 De Abril, 308
+  Pasajero 165 bajó en Pasaje 22 De Abril, 308
+  Pasajero 244 bajó en Pasaje 22 De Abril, 308
+  Pasajero 38 bajó en Pasaje 22 De Abril, 308
+  Pasajero 404 bajó en Pasaje 22 De Abril, 308
+  Pasajero 452 bajó en Pasaje 22 De Abril, 308
+  Pasajero 461 bajó en Pasaje 22 De Abril, 308
+  Pasajero 478 bajó en Pasaje 22 De Abril, 308
+  Pasajero 122 subió en Pasaje 22 De Abril, 308
+  Pasajero 248 subió en Pasaje 22 De Abril, 308
+  Pasajero 265 subió en Pasaje 22 De Abril, 308
+  Pasajero 371 subió en Pasaje 22 De Abril, 308
+  Pasajero 475 subió en Pasaje 22 De Abril, 308
+Parada 80 (Pasaje 22 De Abril, 308): Suben 5, Bajan 15, A bordo: 19
+  Pasajero 460 bajó en Esquel, 1352
+  Pasajero 142 bajó en Esquel, 1352
+  Pasajero 261 bajó en Esquel, 1352
+  Pasajero 222 bajó en Esquel, 1352
+  Pasajero 61 bajó en Esquel, 1352
+  Pasajero 133 bajó en Esquel, 1352
+  Pasajero 262 bajó en Esquel, 1352
+  Pasajero 19 bajó en Esquel, 1352
+  Pasajero 157 bajó en Esquel, 1352
+  Pasajero 160 bajó en Esquel, 1352
+  Pasajero 388 bajó en Esquel, 1352
+  Pasajero 417 bajó en Esquel, 1352
+  Pasajero 350 bajó en Esquel, 1352
+  Pasajero 442 bajó en Esquel, 1352
+  Pasajero 122 bajó en Esquel, 1352
+  Pasajero 248 bajó en Esquel, 1352
+  Pasajero 265 bajó en Esquel, 1352
+  Pasajero 371 bajó en Esquel, 1352
+  Pasajero 475 bajó en Esquel, 1352
+  ¡ATENCIÓN! 5 pasajeros quedaron esperando en Esquel, 1352
+Parada 48 (Esquel, 1352): Suben 0, Bajan 19, A bordo: 0
+
+=== Iniciando recorrido completo para línea Línea L2 - Recorrido 2/5 ===
+
+--- Ida ---
+  ¡ATENCIÓN! 5 pasajeros quedaron esperando en Esquel, 1352
+Parada 48 (Esquel, 1352): Suben 0, Bajan 0, A bordo: 0
+Parada 13 (Alto R�o Senguer, 1311): Suben 0, Bajan 0, A bordo: 0
+Parada 79 (Pasaje 22 De Abril, 167): Suben 0, Bajan 0, A bordo: 0
+Parada 7 (8 De Marzo, 385): Suben 0, Bajan 0, A bordo: 0
+Parada 84 (Pedro Derbes, 816): Suben 0, Bajan 0, A bordo: 0
+Parada 83 (Pedro Derbes, 660): Suben 0, Bajan 0, A bordo: 0
+Parada 90 (Roberto G�mez, 550): Suben 0, Bajan 0, A bordo: 0
+Parada 16 (Avenida Juan Muzzio, 258): Suben 0, Bajan 0, A bordo: 0
+Parada 17 (Avenida Juan Muzzio, 482): Suben 0, Bajan 0, A bordo: 0
+  ¡ATENCIÓN! 4 pasajeros quedaron esperando en Hip�lito Yrigoyen, 802
+Parada 55 (Hip�lito Yrigoyen, 802): Suben 0, Bajan 0, A bordo: 0
+  ¡ATENCIÓN! 3 pasajeros quedaron esperando en Gobernador Alejandro Maiz, 315
+Parada 53 (Gobernador Alejandro Maiz, 315): Suben 0, Bajan 0, A bordo: 0
+  ¡ATENCIÓN! 8 pasajeros quedaron esperando en Belgrano, 314
+Parada 26 (Belgrano, 314): Suben 0, Bajan 0, A bordo: 0
+  ¡ATENCIÓN! 5 pasajeros quedaron esperando en 25 De Mayo, 299
+Parada 3 (25 De Mayo, 299): Suben 0, Bajan 0, A bordo: 0
+  ¡ATENCIÓN! 4 pasajeros quedaron esperando en 25 De Mayo, 693
+Parada 4 (25 De Mayo, 693): Suben 0, Bajan 0, A bordo: 0
+Parada 19 (Avenida Julio Argentino Roca, 1567): Suben 0, Bajan 0, A bordo: 0
+Parada 21 (Avenida Julio Argentino Roca, 2251): Suben 0, Bajan 0, A bordo: 0
+Parada 9 (Abraham Mathews, 2525): Suben 0, Bajan 0, A bordo: 0
+Parada 30 (Bv. Almirante Brown, 2925): Suben 0, Bajan 0, A bordo: 0
+Parada 31 (Bv. Almirante Brown, 3053): Suben 0, Bajan 0, A bordo: 0
+
+--- Vuelta ---
+Parada 31 (Bv. Almirante Brown, 3053): Suben 0, Bajan 0, A bordo: 0
+Parada 8 (Aar�n Jenkins, 219): Suben 0, Bajan 0, A bordo: 0
+  ¡ATENCIÓN! 1 pasajeros quedaron esperando en Chiquichan, 22
+Parada 33 (Chiquichan, 22): Suben 0, Bajan 0, A bordo: 0
+  ¡ATENCIÓN! 3 pasajeros quedaron esperando en Avenida Julio Argentino Roca, 1615
+Parada 20 (Avenida Julio Argentino Roca, 1615): Suben 0, Bajan 0, A bordo: 0
+  ¡ATENCIÓN! 11 pasajeros quedaron esperando en Bartolom� Mitre, 610
+Parada 25 (Bartolom� Mitre, 610): Suben 0, Bajan 0, A bordo: 0
+  ¡ATENCIÓN! 5 pasajeros quedaron esperando en Bartolom� Mitre, 401
+Parada 24 (Bartolom� Mitre, 401): Suben 0, Bajan 0, A bordo: 0
+  Pasajero 483 subió en 28 De Julio, 200
+  ¡ATENCIÓN! 11 pasajeros quedaron esperando en 28 De Julio, 200
+Parada 5 (28 De Julio, 200): Suben 1, Bajan 0, A bordo: 1
+  Pasajero 94 subió en Hip�lito Yrigoyen, 457
+  Pasajero 271 subió en Hip�lito Yrigoyen, 457
+  Pasajero 308 subió en Hip�lito Yrigoyen, 457
+  Pasajero 389 subió en Hip�lito Yrigoyen, 457
+  Pasajero 433 subió en Hip�lito Yrigoyen, 457
+  Pasajero 446 subió en Hip�lito Yrigoyen, 457
+  Pasajero 472 subió en Hip�lito Yrigoyen, 457
+  ¡ATENCIÓN! 5 pasajeros quedaron esperando en Hip�lito Yrigoyen, 457
+Parada 54 (Hip�lito Yrigoyen, 457): Suben 7, Bajan 0, A bordo: 8
+  Pasajero 94 bajó en 1 De Marzo, 499
+  Pasajero 446 bajó en 1 De Marzo, 499
+  Pasajero 199 subió en 1 De Marzo, 499
+  Pasajero 266 subió en 1 De Marzo, 499
+  Pasajero 376 subió en 1 De Marzo, 499
+  ¡ATENCIÓN! 3 pasajeros quedaron esperando en 1 De Marzo, 499
+Parada 2 (1 De Marzo, 499): Suben 3, Bajan 2, A bordo: 9
+  Pasajero 483 bajó en Fuerte San Jos�, 742
+  Pasajero 389 bajó en Fuerte San Jos�, 742
+  Pasajero 199 bajó en Fuerte San Jos�, 742
+  Pasajero 497 subió en Fuerte San Jos�, 742
+  Pasajero 500 subió en Fuerte San Jos�, 742
+Parada 51 (Fuerte San Jos�, 742): Suben 2, Bajan 3, A bordo: 8
+Parada 15 (Avenida Juan Muzzio, 15-198): Suben 0, Bajan 0, A bordo: 8
+  Pasajero 472 bajó en Pedro Derbes, 1040
+Parada 81 (Pedro Derbes, 1040): Suben 0, Bajan 1, A bordo: 7
+  Pasajero 433 bajó en Pedro Derbes, 1102
+  Pasajero 376 bajó en Pedro Derbes, 1102
+Parada 82 (Pedro Derbes, 1102): Suben 0, Bajan 2, A bordo: 5
+  Pasajero 497 bajó en Pasaje 22 De Abril, 308
+  Pasajero 500 bajó en Pasaje 22 De Abril, 308
+Parada 80 (Pasaje 22 De Abril, 308): Suben 0, Bajan 2, A bordo: 3
+  Pasajero 271 bajó en Esquel, 1352
+  Pasajero 308 bajó en Esquel, 1352
+  Pasajero 266 bajó en Esquel, 1352
+  ¡ATENCIÓN! 5 pasajeros quedaron esperando en Esquel, 1352
+Parada 48 (Esquel, 1352): Suben 0, Bajan 3, A bordo: 0
+
+=== Iniciando recorrido completo para línea Línea L2 - Recorrido 3/5 ===
+
+--- Ida ---
+  ¡ATENCIÓN! 5 pasajeros quedaron esperando en Esquel, 1352
+Parada 48 (Esquel, 1352): Suben 0, Bajan 0, A bordo: 0
+Parada 13 (Alto R�o Senguer, 1311): Suben 0, Bajan 0, A bordo: 0
+Parada 79 (Pasaje 22 De Abril, 167): Suben 0, Bajan 0, A bordo: 0
+Parada 7 (8 De Marzo, 385): Suben 0, Bajan 0, A bordo: 0
+Parada 84 (Pedro Derbes, 816): Suben 0, Bajan 0, A bordo: 0
+Parada 83 (Pedro Derbes, 660): Suben 0, Bajan 0, A bordo: 0
+Parada 90 (Roberto G�mez, 550): Suben 0, Bajan 0, A bordo: 0
+Parada 16 (Avenida Juan Muzzio, 258): Suben 0, Bajan 0, A bordo: 0
+Parada 17 (Avenida Juan Muzzio, 482): Suben 0, Bajan 0, A bordo: 0
+  ¡ATENCIÓN! 4 pasajeros quedaron esperando en Hip�lito Yrigoyen, 802
+Parada 55 (Hip�lito Yrigoyen, 802): Suben 0, Bajan 0, A bordo: 0
+  ¡ATENCIÓN! 3 pasajeros quedaron esperando en Gobernador Alejandro Maiz, 315
+Parada 53 (Gobernador Alejandro Maiz, 315): Suben 0, Bajan 0, A bordo: 0
+  ¡ATENCIÓN! 8 pasajeros quedaron esperando en Belgrano, 314
+Parada 26 (Belgrano, 314): Suben 0, Bajan 0, A bordo: 0
+  ¡ATENCIÓN! 5 pasajeros quedaron esperando en 25 De Mayo, 299
+Parada 3 (25 De Mayo, 299): Suben 0, Bajan 0, A bordo: 0
+  ¡ATENCIÓN! 4 pasajeros quedaron esperando en 25 De Mayo, 693
+Parada 4 (25 De Mayo, 693): Suben 0, Bajan 0, A bordo: 0
+Parada 19 (Avenida Julio Argentino Roca, 1567): Suben 0, Bajan 0, A bordo: 0
+Parada 21 (Avenida Julio Argentino Roca, 2251): Suben 0, Bajan 0, A bordo: 0
+Parada 9 (Abraham Mathews, 2525): Suben 0, Bajan 0, A bordo: 0
+Parada 30 (Bv. Almirante Brown, 2925): Suben 0, Bajan 0, A bordo: 0
+Parada 31 (Bv. Almirante Brown, 3053): Suben 0, Bajan 0, A bordo: 0
+
+--- Vuelta ---
+Parada 31 (Bv. Almirante Brown, 3053): Suben 0, Bajan 0, A bordo: 0
+Parada 8 (Aar�n Jenkins, 219): Suben 0, Bajan 0, A bordo: 0
+  ¡ATENCIÓN! 1 pasajeros quedaron esperando en Chiquichan, 22
+Parada 33 (Chiquichan, 22): Suben 0, Bajan 0, A bordo: 0
+  ¡ATENCIÓN! 3 pasajeros quedaron esperando en Avenida Julio Argentino Roca, 1615
+Parada 20 (Avenida Julio Argentino Roca, 1615): Suben 0, Bajan 0, A bordo: 0
+  ¡ATENCIÓN! 11 pasajeros quedaron esperando en Bartolom� Mitre, 610
+Parada 25 (Bartolom� Mitre, 610): Suben 0, Bajan 0, A bordo: 0
+  ¡ATENCIÓN! 5 pasajeros quedaron esperando en Bartolom� Mitre, 401
+Parada 24 (Bartolom� Mitre, 401): Suben 0, Bajan 0, A bordo: 0
+  ¡ATENCIÓN! 11 pasajeros quedaron esperando en 28 De Julio, 200
+Parada 5 (28 De Julio, 200): Suben 0, Bajan 0, A bordo: 0
+  ¡ATENCIÓN! 5 pasajeros quedaron esperando en Hip�lito Yrigoyen, 457
+Parada 54 (Hip�lito Yrigoyen, 457): Suben 0, Bajan 0, A bordo: 0
+  ¡ATENCIÓN! 3 pasajeros quedaron esperando en 1 De Marzo, 499
+Parada 2 (1 De Marzo, 499): Suben 0, Bajan 0, A bordo: 0
+Parada 51 (Fuerte San Jos�, 742): Suben 0, Bajan 0, A bordo: 0
+Parada 15 (Avenida Juan Muzzio, 15-198): Suben 0, Bajan 0, A bordo: 0
+Parada 81 (Pedro Derbes, 1040): Suben 0, Bajan 0, A bordo: 0
+Parada 82 (Pedro Derbes, 1102): Suben 0, Bajan 0, A bordo: 0
+Parada 80 (Pasaje 22 De Abril, 308): Suben 0, Bajan 0, A bordo: 0
+  ¡ATENCIÓN! 5 pasajeros quedaron esperando en Esquel, 1352
+Parada 48 (Esquel, 1352): Suben 0, Bajan 0, A bordo: 0
+
+=== Iniciando recorrido completo para línea Línea L2 - Recorrido 4/5 ===
+
+--- Ida ---
+  ¡ATENCIÓN! 5 pasajeros quedaron esperando en Esquel, 1352
+Parada 48 (Esquel, 1352): Suben 0, Bajan 0, A bordo: 0
+Parada 13 (Alto R�o Senguer, 1311): Suben 0, Bajan 0, A bordo: 0
+Parada 79 (Pasaje 22 De Abril, 167): Suben 0, Bajan 0, A bordo: 0
+Parada 7 (8 De Marzo, 385): Suben 0, Bajan 0, A bordo: 0
+Parada 84 (Pedro Derbes, 816): Suben 0, Bajan 0, A bordo: 0
+Parada 83 (Pedro Derbes, 660): Suben 0, Bajan 0, A bordo: 0
+Parada 90 (Roberto G�mez, 550): Suben 0, Bajan 0, A bordo: 0
+Parada 16 (Avenida Juan Muzzio, 258): Suben 0, Bajan 0, A bordo: 0
+Parada 17 (Avenida Juan Muzzio, 482): Suben 0, Bajan 0, A bordo: 0
+  ¡ATENCIÓN! 4 pasajeros quedaron esperando en Hip�lito Yrigoyen, 802
+Parada 55 (Hip�lito Yrigoyen, 802): Suben 0, Bajan 0, A bordo: 0
+  ¡ATENCIÓN! 3 pasajeros quedaron esperando en Gobernador Alejandro Maiz, 315
+Parada 53 (Gobernador Alejandro Maiz, 315): Suben 0, Bajan 0, A bordo: 0
+  ¡ATENCIÓN! 8 pasajeros quedaron esperando en Belgrano, 314
+Parada 26 (Belgrano, 314): Suben 0, Bajan 0, A bordo: 0
+  ¡ATENCIÓN! 5 pasajeros quedaron esperando en 25 De Mayo, 299
+Parada 3 (25 De Mayo, 299): Suben 0, Bajan 0, A bordo: 0
+  ¡ATENCIÓN! 4 pasajeros quedaron esperando en 25 De Mayo, 693
+Parada 4 (25 De Mayo, 693): Suben 0, Bajan 0, A bordo: 0
+Parada 19 (Avenida Julio Argentino Roca, 1567): Suben 0, Bajan 0, A bordo: 0
+Parada 21 (Avenida Julio Argentino Roca, 2251): Suben 0, Bajan 0, A bordo: 0
+Parada 9 (Abraham Mathews, 2525): Suben 0, Bajan 0, A bordo: 0
+Parada 30 (Bv. Almirante Brown, 2925): Suben 0, Bajan 0, A bordo: 0
+Parada 31 (Bv. Almirante Brown, 3053): Suben 0, Bajan 0, A bordo: 0
+
+--- Vuelta ---
+Parada 31 (Bv. Almirante Brown, 3053): Suben 0, Bajan 0, A bordo: 0
+Parada 8 (Aar�n Jenkins, 219): Suben 0, Bajan 0, A bordo: 0
+  ¡ATENCIÓN! 1 pasajeros quedaron esperando en Chiquichan, 22
+Parada 33 (Chiquichan, 22): Suben 0, Bajan 0, A bordo: 0
+  ¡ATENCIÓN! 3 pasajeros quedaron esperando en Avenida Julio Argentino Roca, 1615
+Parada 20 (Avenida Julio Argentino Roca, 1615): Suben 0, Bajan 0, A bordo: 0
+  ¡ATENCIÓN! 11 pasajeros quedaron esperando en Bartolom� Mitre, 610
+Parada 25 (Bartolom� Mitre, 610): Suben 0, Bajan 0, A bordo: 0
+  ¡ATENCIÓN! 5 pasajeros quedaron esperando en Bartolom� Mitre, 401
+Parada 24 (Bartolom� Mitre, 401): Suben 0, Bajan 0, A bordo: 0
+  ¡ATENCIÓN! 11 pasajeros quedaron esperando en 28 De Julio, 200
+Parada 5 (28 De Julio, 200): Suben 0, Bajan 0, A bordo: 0
+  ¡ATENCIÓN! 5 pasajeros quedaron esperando en Hip�lito Yrigoyen, 457
+Parada 54 (Hip�lito Yrigoyen, 457): Suben 0, Bajan 0, A bordo: 0
+  ¡ATENCIÓN! 3 pasajeros quedaron esperando en 1 De Marzo, 499
+Parada 2 (1 De Marzo, 499): Suben 0, Bajan 0, A bordo: 0
+Parada 51 (Fuerte San Jos�, 742): Suben 0, Bajan 0, A bordo: 0
+Parada 15 (Avenida Juan Muzzio, 15-198): Suben 0, Bajan 0, A bordo: 0
+Parada 81 (Pedro Derbes, 1040): Suben 0, Bajan 0, A bordo: 0
+Parada 82 (Pedro Derbes, 1102): Suben 0, Bajan 0, A bordo: 0
+Parada 80 (Pasaje 22 De Abril, 308): Suben 0, Bajan 0, A bordo: 0
+  ¡ATENCIÓN! 5 pasajeros quedaron esperando en Esquel, 1352
+Parada 48 (Esquel, 1352): Suben 0, Bajan 0, A bordo: 0
+
+=== Iniciando recorrido completo para línea Línea L2 - Recorrido 5/5 ===
+
+--- Ida ---
+  ¡ATENCIÓN! 5 pasajeros quedaron esperando en Esquel, 1352
+Parada 48 (Esquel, 1352): Suben 0, Bajan 0, A bordo: 0
+Parada 13 (Alto R�o Senguer, 1311): Suben 0, Bajan 0, A bordo: 0
+Parada 79 (Pasaje 22 De Abril, 167): Suben 0, Bajan 0, A bordo: 0
+Parada 7 (8 De Marzo, 385): Suben 0, Bajan 0, A bordo: 0
+Parada 84 (Pedro Derbes, 816): Suben 0, Bajan 0, A bordo: 0
+Parada 83 (Pedro Derbes, 660): Suben 0, Bajan 0, A bordo: 0
+Parada 90 (Roberto G�mez, 550): Suben 0, Bajan 0, A bordo: 0
+Parada 16 (Avenida Juan Muzzio, 258): Suben 0, Bajan 0, A bordo: 0
+Parada 17 (Avenida Juan Muzzio, 482): Suben 0, Bajan 0, A bordo: 0
+  ¡ATENCIÓN! 4 pasajeros quedaron esperando en Hip�lito Yrigoyen, 802
+Parada 55 (Hip�lito Yrigoyen, 802): Suben 0, Bajan 0, A bordo: 0
+  ¡ATENCIÓN! 3 pasajeros quedaron esperando en Gobernador Alejandro Maiz, 315
+Parada 53 (Gobernador Alejandro Maiz, 315): Suben 0, Bajan 0, A bordo: 0
+  ¡ATENCIÓN! 8 pasajeros quedaron esperando en Belgrano, 314
+Parada 26 (Belgrano, 314): Suben 0, Bajan 0, A bordo: 0
+  ¡ATENCIÓN! 5 pasajeros quedaron esperando en 25 De Mayo, 299
+Parada 3 (25 De Mayo, 299): Suben 0, Bajan 0, A bordo: 0
+  ¡ATENCIÓN! 4 pasajeros quedaron esperando en 25 De Mayo, 693
+Parada 4 (25 De Mayo, 693): Suben 0, Bajan 0, A bordo: 0
+Parada 19 (Avenida Julio Argentino Roca, 1567): Suben 0, Bajan 0, A bordo: 0
+Parada 21 (Avenida Julio Argentino Roca, 2251): Suben 0, Bajan 0, A bordo: 0
+Parada 9 (Abraham Mathews, 2525): Suben 0, Bajan 0, A bordo: 0
+Parada 30 (Bv. Almirante Brown, 2925): Suben 0, Bajan 0, A bordo: 0
+Parada 31 (Bv. Almirante Brown, 3053): Suben 0, Bajan 0, A bordo: 0
+
+--- Vuelta ---
+Parada 31 (Bv. Almirante Brown, 3053): Suben 0, Bajan 0, A bordo: 0
+Parada 8 (Aar�n Jenkins, 219): Suben 0, Bajan 0, A bordo: 0
+  ¡ATENCIÓN! 1 pasajeros quedaron esperando en Chiquichan, 22
+Parada 33 (Chiquichan, 22): Suben 0, Bajan 0, A bordo: 0
+  ¡ATENCIÓN! 3 pasajeros quedaron esperando en Avenida Julio Argentino Roca, 1615
+Parada 20 (Avenida Julio Argentino Roca, 1615): Suben 0, Bajan 0, A bordo: 0
+  ¡ATENCIÓN! 11 pasajeros quedaron esperando en Bartolom� Mitre, 610
+Parada 25 (Bartolom� Mitre, 610): Suben 0, Bajan 0, A bordo: 0
+  ¡ATENCIÓN! 5 pasajeros quedaron esperando en Bartolom� Mitre, 401
+Parada 24 (Bartolom� Mitre, 401): Suben 0, Bajan 0, A bordo: 0
+  ¡ATENCIÓN! 11 pasajeros quedaron esperando en 28 De Julio, 200
+Parada 5 (28 De Julio, 200): Suben 0, Bajan 0, A bordo: 0
+  ¡ATENCIÓN! 5 pasajeros quedaron esperando en Hip�lito Yrigoyen, 457
+Parada 54 (Hip�lito Yrigoyen, 457): Suben 0, Bajan 0, A bordo: 0
+  ¡ATENCIÓN! 3 pasajeros quedaron esperando en 1 De Marzo, 499
+Parada 2 (1 De Marzo, 499): Suben 0, Bajan 0, A bordo: 0
+Parada 51 (Fuerte San Jos�, 742): Suben 0, Bajan 0, A bordo: 0
+Parada 15 (Avenida Juan Muzzio, 15-198): Suben 0, Bajan 0, A bordo: 0
+Parada 81 (Pedro Derbes, 1040): Suben 0, Bajan 0, A bordo: 0
+Parada 82 (Pedro Derbes, 1102): Suben 0, Bajan 0, A bordo: 0
+Parada 80 (Pasaje 22 De Abril, 308): Suben 0, Bajan 0, A bordo: 0
+  ¡ATENCIÓN! 5 pasajeros quedaron esperando en Esquel, 1352
+Parada 48 (Esquel, 1352): Suben 0, Bajan 0, A bordo: 0
+
+=== Iniciando recorrido completo para línea Línea L3 - Recorrido 1/2 ===
+
+--- Ida ---
+  Pasajero 17 subió en Ruta Provincial 1
+Parada 92 (Ruta Provincial 1): Suben 1, Bajan 0, A bordo: 1
+  Pasajero 176 subió en Manuel Carrera, 1534
+  Pasajero 459 subió en Manuel Carrera, 1534
+  ¡ATENCIÓN! 5 pasajeros quedaron esperando en Manuel Carrera, 1534
+Parada 71 (Manuel Carrera, 1534): Suben 2, Bajan 0, A bordo: 3
+  Pasajero 459 bajó en Agust�n Pujol, 374
+  Pasajero 280 subió en Agust�n Pujol, 374
+  Pasajero 464 subió en Agust�n Pujol, 374
+Parada 11 (Agust�n Pujol, 374): Suben 2, Bajan 1, A bordo: 4
+  Pasajero 65 subió en 1 De Marzo, 405
+  Pasajero 187 subió en 1 De Marzo, 405
+  Pasajero 492 subió en 1 De Marzo, 405
+  ¡ATENCIÓN! 6 pasajeros quedaron esperando en 1 De Marzo, 405
+Parada 1 (1 De Marzo, 405): Suben 3, Bajan 0, A bordo: 7
+  Pasajero 292 subió en 28 De Julio, 311
+  Pasajero 332 subió en 28 De Julio, 311
+  ¡ATENCIÓN! 12 pasajeros quedaron esperando en 28 De Julio, 311
+Parada 6 (28 De Julio, 311): Suben 2, Bajan 0, A bordo: 9
+  Pasajero 1 subió en Marcos A. Zar, 461
+  Pasajero 363 subió en Marcos A. Zar, 461
+  ¡ATENCIÓN! 7 pasajeros quedaron esperando en Marcos A. Zar, 461
+Parada 75 (Marcos A. Zar, 461): Suben 2, Bajan 0, A bordo: 11
+  Pasajero 176 bajó en Marcos A. Zar, 691
+  Pasajero 292 bajó en Marcos A. Zar, 691
+  Pasajero 377 subió en Marcos A. Zar, 691
+  Pasajero 456 subió en Marcos A. Zar, 691
+  ¡ATENCIÓN! 10 pasajeros quedaron esperando en Marcos A. Zar, 691
+Parada 76 (Marcos A. Zar, 691): Suben 2, Bajan 2, A bordo: 11
+  Pasajero 1 bajó en Espa�a, 485
+  Pasajero 456 bajó en Espa�a, 485
+  ¡ATENCIÓN! 4 pasajeros quedaron esperando en Espa�a, 485
+Parada 46 (Espa�a, 485): Suben 0, Bajan 2, A bordo: 9
+  Pasajero 280 bajó en Dorrego, 700
+  Pasajero 464 bajó en Dorrego, 700
+  Pasajero 187 bajó en Dorrego, 700
+  Pasajero 363 bajó en Dorrego, 700
+  Pasajero 274 subió en Dorrego, 700
+  Pasajero 383 subió en Dorrego, 700
+  ¡ATENCIÓN! 4 pasajeros quedaron esperando en Dorrego, 700
+Parada 39 (Dorrego, 700): Suben 2, Bajan 4, A bordo: 7
+  Pasajero 492 bajó en Fournier, 1090
+  Pasajero 383 bajó en Fournier, 1090
+Parada 49 (Fournier, 1090): Suben 0, Bajan 2, A bordo: 5
+  Pasajero 17 bajó en San Juan, 896
+  Pasajero 65 bajó en San Juan, 896
+  Pasajero 332 bajó en San Juan, 896
+  Pasajero 377 bajó en San Juan, 896
+  Pasajero 274 bajó en San Juan, 896
+  Pasajero 41 subió en San Juan, 896
+  Pasajero 161 subió en San Juan, 896
+  Pasajero 251 subió en San Juan, 896
+Parada 94 (San Juan, 896): Suben 3, Bajan 5, A bordo: 3
+  Pasajero 41 bajó en Ruperto Gimenez, 678
+  Pasajero 161 bajó en Ruperto Gimenez, 678
+  Pasajero 251 bajó en Ruperto Gimenez, 678
+  ¡ATENCIÓN! 2 pasajeros quedaron esperando en Ruperto Gimenez, 678
+Parada 91 (Ruperto Gimenez, 678): Suben 0, Bajan 3, A bordo: 0
+
+--- Vuelta ---
+  Pasajero 206 subió en Ruperto Gimenez, 678
+  ¡ATENCIÓN! 1 pasajeros quedaron esperando en Ruperto Gimenez, 678
+Parada 91 (Ruperto Gimenez, 678): Suben 1, Bajan 0, A bordo: 1
+  Pasajero 21 subió en Periodistas Chubutenses, 500
+  Pasajero 75 subió en Periodistas Chubutenses, 500
+  ¡ATENCIÓN! 2 pasajeros quedaron esperando en Periodistas Chubutenses, 500
+Parada 85 (Periodistas Chubutenses, 500): Suben 2, Bajan 0, A bordo: 3
+  Pasajero 21 bajó en Santiago Del Estero, 727
+  Pasajero 80 subió en Santiago Del Estero, 727
+  Pasajero 129 subió en Santiago Del Estero, 727
+  Pasajero 411 subió en Santiago Del Estero, 727
+  ¡ATENCIÓN! 3 pasajeros quedaron esperando en Santiago Del Estero, 727
+Parada 98 (Santiago Del Estero, 727): Suben 3, Bajan 1, A bordo: 5
+  Pasajero 75 bajó en San Juan, 891
+  Pasajero 129 bajó en San Juan, 891
+  Pasajero 411 bajó en San Juan, 891
+  Pasajero 36 subió en San Juan, 891
+  Pasajero 171 subió en San Juan, 891
+  Pasajero 378 subió en San Juan, 891
+Parada 93 (San Juan, 891): Suben 3, Bajan 3, A bordo: 5
+  Pasajero 36 bajó en Fournier, 1187
+  Pasajero 57 subió en Fournier, 1187
+  Pasajero 289 subió en Fournier, 1187
+  Pasajero 412 subió en Fournier, 1187
+Parada 50 (Fournier, 1187): Suben 3, Bajan 1, A bordo: 7
+  Pasajero 412 bajó en Dorrego, 700
+  Pasajero 180 subió en Dorrego, 700
+  ¡ATENCIÓN! 3 pasajeros quedaron esperando en Dorrego, 700
+Parada 39 (Dorrego, 700): Suben 1, Bajan 1, A bordo: 7
+  Pasajero 378 bajó en 28 De Julio, 200
+  Pasajero 115 subió en 28 De Julio, 200
+  Pasajero 282 subió en 28 De Julio, 200
+  ¡ATENCIÓN! 9 pasajeros quedaron esperando en 28 De Julio, 200
+Parada 5 (28 De Julio, 200): Suben 2, Bajan 1, A bordo: 8
+  Pasajero 206 bajó en 1 De Marzo, 499
+  Pasajero 289 bajó en 1 De Marzo, 499
+  Pasajero 109 subió en 1 De Marzo, 499
+  Pasajero 237 subió en 1 De Marzo, 499
+  Pasajero 321 subió en 1 De Marzo, 499
+Parada 2 (1 De Marzo, 499): Suben 3, Bajan 2, A bordo: 9
+  Pasajero 171 bajó en Agust�n Pujol, 284
+  Pasajero 57 bajó en Agust�n Pujol, 284
+  Pasajero 115 bajó en Agust�n Pujol, 284
+  Pasajero 121 subió en Agust�n Pujol, 284
+  Pasajero 186 subió en Agust�n Pujol, 284
+  Pasajero 381 subió en Agust�n Pujol, 284
+  Pasajero 496 subió en Agust�n Pujol, 284
+Parada 10 (Agust�n Pujol, 284): Suben 4, Bajan 3, A bordo: 10
+  Pasajero 80 bajó en Manuel Carrera, 1534
+  Pasajero 180 bajó en Manuel Carrera, 1534
+  Pasajero 109 bajó en Manuel Carrera, 1534
+  Pasajero 237 bajó en Manuel Carrera, 1534
+  Pasajero 321 bajó en Manuel Carrera, 1534
+  Pasajero 2 subió en Manuel Carrera, 1534
+  Pasajero 70 subió en Manuel Carrera, 1534
+  Pasajero 124 subió en Manuel Carrera, 1534
+  Pasajero 203 subió en Manuel Carrera, 1534
+  Pasajero 299 subió en Manuel Carrera, 1534
+Parada 71 (Manuel Carrera, 1534): Suben 5, Bajan 5, A bordo: 10
+  Pasajero 282 bajó en Ruta Provincial 1
+  Pasajero 121 bajó en Ruta Provincial 1
+  Pasajero 186 bajó en Ruta Provincial 1
+  Pasajero 381 bajó en Ruta Provincial 1
+  Pasajero 496 bajó en Ruta Provincial 1
+  Pasajero 2 bajó en Ruta Provincial 1
+  Pasajero 70 bajó en Ruta Provincial 1
+  Pasajero 124 bajó en Ruta Provincial 1
+  Pasajero 203 bajó en Ruta Provincial 1
+  Pasajero 299 bajó en Ruta Provincial 1
+Parada 92 (Ruta Provincial 1): Suben 0, Bajan 10, A bordo: 0
+
+=== Iniciando recorrido completo para línea Línea L3 - Recorrido 2/2 ===
+
+--- Ida ---
+Parada 92 (Ruta Provincial 1): Suben 0, Bajan 0, A bordo: 0
+Parada 71 (Manuel Carrera, 1534): Suben 0, Bajan 0, A bordo: 0
+Parada 11 (Agust�n Pujol, 374): Suben 0, Bajan 0, A bordo: 0
+  ¡ATENCIÓN! 6 pasajeros quedaron esperando en 1 De Marzo, 405
+Parada 1 (1 De Marzo, 405): Suben 0, Bajan 0, A bordo: 0
+  ¡ATENCIÓN! 12 pasajeros quedaron esperando en 28 De Julio, 311
+Parada 6 (28 De Julio, 311): Suben 0, Bajan 0, A bordo: 0
+  ¡ATENCIÓN! 7 pasajeros quedaron esperando en Marcos A. Zar, 461
+Parada 75 (Marcos A. Zar, 461): Suben 0, Bajan 0, A bordo: 0
+  ¡ATENCIÓN! 10 pasajeros quedaron esperando en Marcos A. Zar, 691
+Parada 76 (Marcos A. Zar, 691): Suben 0, Bajan 0, A bordo: 0
+  ¡ATENCIÓN! 4 pasajeros quedaron esperando en Espa�a, 485
+Parada 46 (Espa�a, 485): Suben 0, Bajan 0, A bordo: 0
+  ¡ATENCIÓN! 3 pasajeros quedaron esperando en Dorrego, 700
+Parada 39 (Dorrego, 700): Suben 0, Bajan 0, A bordo: 0
+Parada 49 (Fournier, 1090): Suben 0, Bajan 0, A bordo: 0
+Parada 94 (San Juan, 896): Suben 0, Bajan 0, A bordo: 0
+  ¡ATENCIÓN! 1 pasajeros quedaron esperando en Ruperto Gimenez, 678
+Parada 91 (Ruperto Gimenez, 678): Suben 0, Bajan 0, A bordo: 0
+
+--- Vuelta ---
+  ¡ATENCIÓN! 1 pasajeros quedaron esperando en Ruperto Gimenez, 678
+Parada 91 (Ruperto Gimenez, 678): Suben 0, Bajan 0, A bordo: 0
+  ¡ATENCIÓN! 2 pasajeros quedaron esperando en Periodistas Chubutenses, 500
+Parada 85 (Periodistas Chubutenses, 500): Suben 0, Bajan 0, A bordo: 0
+  ¡ATENCIÓN! 3 pasajeros quedaron esperando en Santiago Del Estero, 727
+Parada 98 (Santiago Del Estero, 727): Suben 0, Bajan 0, A bordo: 0
+Parada 93 (San Juan, 891): Suben 0, Bajan 0, A bordo: 0
+Parada 50 (Fournier, 1187): Suben 0, Bajan 0, A bordo: 0
+  ¡ATENCIÓN! 3 pasajeros quedaron esperando en Dorrego, 700
+Parada 39 (Dorrego, 700): Suben 0, Bajan 0, A bordo: 0
+  ¡ATENCIÓN! 9 pasajeros quedaron esperando en 28 De Julio, 200
+Parada 5 (28 De Julio, 200): Suben 0, Bajan 0, A bordo: 0
+Parada 2 (1 De Marzo, 499): Suben 0, Bajan 0, A bordo: 0
+Parada 10 (Agust�n Pujol, 284): Suben 0, Bajan 0, A bordo: 0
+Parada 71 (Manuel Carrera, 1534): Suben 0, Bajan 0, A bordo: 0
+Parada 92 (Ruta Provincial 1): Suben 0, Bajan 0, A bordo: 0
+
+=== Iniciando recorrido completo para línea Línea L4 - Recorrido 1/5 ===
+
+--- Ida ---
+  Pasajero 101 subió en 1 De Marzo, 405
+  Pasajero 474 subió en 1 De Marzo, 405
+  ¡ATENCIÓN! 4 pasajeros quedaron esperando en 1 De Marzo, 405
+Parada 1 (1 De Marzo, 405): Suben 2, Bajan 0, A bordo: 2
+  Pasajero 259 subió en 28 De Julio, 311
+  Pasajero 384 subió en 28 De Julio, 311
+  Pasajero 398 subió en 28 De Julio, 311
+  Pasajero 399 subió en 28 De Julio, 311
+  Pasajero 447 subió en 28 De Julio, 311
+  ¡ATENCIÓN! 7 pasajeros quedaron esperando en 28 De Julio, 311
+Parada 6 (28 De Julio, 311): Suben 5, Bajan 0, A bordo: 7
+  Pasajero 140 subió en Marcos A. Zar, 461
+  Pasajero 328 subió en Marcos A. Zar, 461
+  Pasajero 434 subió en Marcos A. Zar, 461
+  Pasajero 445 subió en Marcos A. Zar, 461
+  ¡ATENCIÓN! 3 pasajeros quedaron esperando en Marcos A. Zar, 461
+Parada 75 (Marcos A. Zar, 461): Suben 4, Bajan 0, A bordo: 11
+  Pasajero 399 bajó en Marcos A. Zar, 691
+  Pasajero 328 bajó en Marcos A. Zar, 691
+  Pasajero 113 subió en Marcos A. Zar, 691
+  Pasajero 116 subió en Marcos A. Zar, 691
+  Pasajero 151 subió en Marcos A. Zar, 691
+  Pasajero 209 subió en Marcos A. Zar, 691
+  Pasajero 247 subió en Marcos A. Zar, 691
+  Pasajero 256 subió en Marcos A. Zar, 691
+  Pasajero 340 subió en Marcos A. Zar, 691
+  ¡ATENCIÓN! 3 pasajeros quedaron esperando en Marcos A. Zar, 691
+Parada 76 (Marcos A. Zar, 691): Suben 7, Bajan 2, A bordo: 16
+  Pasajero 445 bajó en Bouchard, 880
+  Pasajero 116 bajó en Bouchard, 880
+  Pasajero 151 bajó en Bouchard, 880
+  Pasajero 340 bajó en Bouchard, 880
+  Pasajero 170 subió en Bouchard, 880
+  Pasajero 490 subió en Bouchard, 880
+Parada 29 (Bouchard, 880): Suben 2, Bajan 4, A bordo: 14
+  Pasajero 447 bajó en Bouchard, 1285
+  Pasajero 256 bajó en Bouchard, 1285
+  Pasajero 170 bajó en Bouchard, 1285
+  Pasajero 55 subió en Bouchard, 1285
+  Pasajero 179 subió en Bouchard, 1285
+  Pasajero 288 subió en Bouchard, 1285
+  Pasajero 305 subió en Bouchard, 1285
+  Pasajero 329 subió en Bouchard, 1285
+  Pasajero 342 subió en Bouchard, 1285
+Parada 27 (Bouchard, 1285): Suben 6, Bajan 3, A bordo: 17
+  Pasajero 259 bajó en Rivadavia, 2476
+  Pasajero 490 bajó en Rivadavia, 2476
+  Pasajero 329 bajó en Rivadavia, 2476
+  Pasajero 13 subió en Rivadavia, 2476
+  Pasajero 173 subió en Rivadavia, 2476
+  Pasajero 208 subió en Rivadavia, 2476
+  Pasajero 220 subió en Rivadavia, 2476
+Parada 87 (Rivadavia, 2476): Suben 4, Bajan 3, A bordo: 18
+  Pasajero 247 bajó en Rivadavia 2950
+  Pasajero 220 bajó en Rivadavia 2950
+  Pasajero 16 subió en Rivadavia 2950
+  Pasajero 93 subió en Rivadavia 2950
+  Pasajero 120 subió en Rivadavia 2950
+  Pasajero 172 subió en Rivadavia 2950
+  Pasajero 218 subió en Rivadavia 2950
+  Pasajero 267 subió en Rivadavia 2950
+  Pasajero 337 subió en Rivadavia 2950
+  Pasajero 365 subió en Rivadavia 2950
+  Pasajero 408 subió en Rivadavia 2950
+  Pasajero 449 subió en Rivadavia 2950
+  Pasajero 481 subió en Rivadavia 2950
+Parada 86 (Rivadavia 2950): Suben 11, Bajan 2, A bordo: 27
+  Pasajero 474 bajó en Vito Roca 1106
+  Pasajero 398 bajó en Vito Roca 1106
+  Pasajero 140 bajó en Vito Roca 1106
+  Pasajero 209 bajó en Vito Roca 1106
+  Pasajero 55 bajó en Vito Roca 1106
+  Pasajero 342 bajó en Vito Roca 1106
+  Pasajero 208 bajó en Vito Roca 1106
+  Pasajero 120 bajó en Vito Roca 1106
+  Pasajero 408 bajó en Vito Roca 1106
+  Pasajero 449 bajó en Vito Roca 1106
+  Pasajero 112 subió en Vito Roca 1106
+  Pasajero 150 subió en Vito Roca 1106
+  Pasajero 232 subió en Vito Roca 1106
+  Pasajero 254 subió en Vito Roca 1106
+  Pasajero 286 subió en Vito Roca 1106
+  Pasajero 327 subió en Vito Roca 1106
+Parada 103 (Vito Roca 1106): Suben 6, Bajan 10, A bordo: 23
+  Pasajero 434 bajó en Manuel Alsua, 1086
+  Pasajero 113 bajó en Manuel Alsua, 1086
+  Pasajero 173 bajó en Manuel Alsua, 1086
+  Pasajero 93 bajó en Manuel Alsua, 1086
+  Pasajero 172 bajó en Manuel Alsua, 1086
+  Pasajero 218 bajó en Manuel Alsua, 1086
+  Pasajero 337 bajó en Manuel Alsua, 1086
+  Pasajero 365 bajó en Manuel Alsua, 1086
+  Pasajero 112 bajó en Manuel Alsua, 1086
+  Pasajero 232 bajó en Manuel Alsua, 1086
+  Pasajero 327 bajó en Manuel Alsua, 1086
+  Pasajero 25 subió en Manuel Alsua, 1086
+  Pasajero 34 subió en Manuel Alsua, 1086
+  Pasajero 81 subió en Manuel Alsua, 1086
+  Pasajero 281 subió en Manuel Alsua, 1086
+  ¡ATENCIÓN! 10 pasajeros quedaron esperando en Manuel Alsua, 1086
+Parada 70 (Manuel Alsua, 1086): Suben 4, Bajan 11, A bordo: 16
+  Pasajero 101 bajó en Juan Jose Meangolarra Y Moreno, 1005
+  Pasajero 384 bajó en Juan Jose Meangolarra Y Moreno, 1005
+  Pasajero 179 bajó en Juan Jose Meangolarra Y Moreno, 1005
+  Pasajero 288 bajó en Juan Jose Meangolarra Y Moreno, 1005
+  Pasajero 305 bajó en Juan Jose Meangolarra Y Moreno, 1005
+  Pasajero 13 bajó en Juan Jose Meangolarra Y Moreno, 1005
+  Pasajero 16 bajó en Juan Jose Meangolarra Y Moreno, 1005
+  Pasajero 267 bajó en Juan Jose Meangolarra Y Moreno, 1005
+  Pasajero 481 bajó en Juan Jose Meangolarra Y Moreno, 1005
+  Pasajero 150 bajó en Juan Jose Meangolarra Y Moreno, 1005
+  Pasajero 254 bajó en Juan Jose Meangolarra Y Moreno, 1005
+  Pasajero 286 bajó en Juan Jose Meangolarra Y Moreno, 1005
+  Pasajero 25 bajó en Juan Jose Meangolarra Y Moreno, 1005
+  Pasajero 34 bajó en Juan Jose Meangolarra Y Moreno, 1005
+  Pasajero 81 bajó en Juan Jose Meangolarra Y Moreno, 1005
+  Pasajero 281 bajó en Juan Jose Meangolarra Y Moreno, 1005
+  ¡ATENCIÓN! 2 pasajeros quedaron esperando en Juan Jose Meangolarra Y Moreno, 1005
+Parada 60 (Juan Jose Meangolarra Y Moreno, 1005): Suben 0, Bajan 16, A bordo: 0
+
+--- Vuelta ---
+  Pasajero 226 subió en Juan Jose Meangolarra Y Moreno, 1005
+  Pasajero 391 subió en Juan Jose Meangolarra Y Moreno, 1005
+Parada 60 (Juan Jose Meangolarra Y Moreno, 1005): Suben 2, Bajan 0, A bordo: 2
+  Pasajero 27 subió en Manuel Alsua, 1086
+  Pasajero 46 subió en Manuel Alsua, 1086
+  Pasajero 78 subió en Manuel Alsua, 1086
+  Pasajero 143 subió en Manuel Alsua, 1086
+  Pasajero 148 subió en Manuel Alsua, 1086
+  Pasajero 177 subió en Manuel Alsua, 1086
+  Pasajero 346 subió en Manuel Alsua, 1086
+  Pasajero 428 subió en Manuel Alsua, 1086
+  Pasajero 440 subió en Manuel Alsua, 1086
+  Pasajero 494 subió en Manuel Alsua, 1086
+Parada 70 (Manuel Alsua, 1086): Suben 10, Bajan 0, A bordo: 12
+  Pasajero 226 bajó en Rivadavia, 2496
+  Pasajero 43 subió en Rivadavia, 2496
+  Pasajero 126 subió en Rivadavia, 2496
+  Pasajero 135 subió en Rivadavia, 2496
+  Pasajero 139 subió en Rivadavia, 2496
+  Pasajero 193 subió en Rivadavia, 2496
+  Pasajero 341 subió en Rivadavia, 2496
+  Pasajero 463 subió en Rivadavia, 2496
+  Pasajero 469 subió en Rivadavia, 2496
+Parada 88 (Rivadavia, 2496): Suben 8, Bajan 1, A bordo: 19
+  Pasajero 391 bajó en Lewis Jones, 1336
+  Pasajero 27 bajó en Lewis Jones, 1336
+  Pasajero 440 bajó en Lewis Jones, 1336
+  Pasajero 139 bajó en Lewis Jones, 1336
+  Pasajero 67 subió en Lewis Jones, 1336
+  Pasajero 137 subió en Lewis Jones, 1336
+  Pasajero 240 subió en Lewis Jones, 1336
+  Pasajero 250 subió en Lewis Jones, 1336
+  Pasajero 258 subió en Lewis Jones, 1336
+  Pasajero 347 subió en Lewis Jones, 1336
+  Pasajero 348 subió en Lewis Jones, 1336
+  Pasajero 418 subió en Lewis Jones, 1336
+Parada 63 (Lewis Jones, 1336): Suben 8, Bajan 4, A bordo: 23
+  Pasajero 177 bajó en Lewis Jones, 919
+  Pasajero 67 bajó en Lewis Jones, 919
+  Pasajero 240 bajó en Lewis Jones, 919
+  Pasajero 250 bajó en Lewis Jones, 919
+  Pasajero 348 bajó en Lewis Jones, 919
+  Pasajero 104 subió en Lewis Jones, 919
+  Pasajero 345 subió en Lewis Jones, 919
+  Pasajero 484 subió en Lewis Jones, 919
+Parada 65 (Lewis Jones, 919): Suben 3, Bajan 5, A bordo: 21
+  Pasajero 78 bajó en Lewis Jones, 200
+  Pasajero 428 bajó en Lewis Jones, 200
+  Pasajero 137 bajó en Lewis Jones, 200
+  Pasajero 347 bajó en Lewis Jones, 200
+  Pasajero 418 bajó en Lewis Jones, 200
+  Pasajero 104 bajó en Lewis Jones, 200
+  Pasajero 484 bajó en Lewis Jones, 200
+  Pasajero 264 subió en Lewis Jones, 200
+  Pasajero 405 subió en Lewis Jones, 200
+  Pasajero 444 subió en Lewis Jones, 200
+Parada 64 (Lewis Jones, 200): Suben 3, Bajan 7, A bordo: 17
+  Pasajero 148 bajó en Mariano Moreno, 193
+  Pasajero 494 bajó en Mariano Moreno, 193
+  Pasajero 126 bajó en Mariano Moreno, 193
+  Pasajero 469 bajó en Mariano Moreno, 193
+  Pasajero 264 bajó en Mariano Moreno, 193
+  Pasajero 49 subió en Mariano Moreno, 193
+  Pasajero 499 subió en Mariano Moreno, 193
+Parada 77 (Mariano Moreno, 193): Suben 2, Bajan 5, A bordo: 14
+  Pasajero 143 bajó en Bartolom� Mitre, 610
+  Pasajero 43 bajó en Bartolom� Mitre, 610
+  Pasajero 193 bajó en Bartolom� Mitre, 610
+  Pasajero 463 bajó en Bartolom� Mitre, 610
+  Pasajero 258 bajó en Bartolom� Mitre, 610
+  Pasajero 49 bajó en Bartolom� Mitre, 610
+  Pasajero 117 subió en Bartolom� Mitre, 610
+  Pasajero 156 subió en Bartolom� Mitre, 610
+  Pasajero 182 subió en Bartolom� Mitre, 610
+  Pasajero 320 subió en Bartolom� Mitre, 610
+  Pasajero 339 subió en Bartolom� Mitre, 610
+  Pasajero 358 subió en Bartolom� Mitre, 610
+  Pasajero 368 subió en Bartolom� Mitre, 610
+  Pasajero 431 subió en Bartolom� Mitre, 610
+  ¡ATENCIÓN! 3 pasajeros quedaron esperando en Bartolom� Mitre, 610
+Parada 25 (Bartolom� Mitre, 610): Suben 8, Bajan 6, A bordo: 16
+  Pasajero 46 bajó en 28 De Julio, 200
+  Pasajero 345 bajó en 28 De Julio, 200
+  Pasajero 444 bajó en 28 De Julio, 200
+  Pasajero 499 bajó en 28 De Julio, 200
+  Pasajero 156 bajó en 28 De Julio, 200
+  Pasajero 182 bajó en 28 De Julio, 200
+  Pasajero 320 bajó en 28 De Julio, 200
+  Pasajero 358 bajó en 28 De Julio, 200
+  Pasajero 431 bajó en 28 De Julio, 200
+  Pasajero 66 subió en 28 De Julio, 200
+  Pasajero 88 subió en 28 De Julio, 200
+  Pasajero 217 subió en 28 De Julio, 200
+  Pasajero 392 subió en 28 De Julio, 200
+  Pasajero 425 subió en 28 De Julio, 200
+  Pasajero 427 subió en 28 De Julio, 200
+  ¡ATENCIÓN! 3 pasajeros quedaron esperando en 28 De Julio, 200
+Parada 5 (28 De Julio, 200): Suben 6, Bajan 9, A bordo: 13
+  Pasajero 346 bajó en 1 De Marzo, 405
+  Pasajero 135 bajó en 1 De Marzo, 405
+  Pasajero 341 bajó en 1 De Marzo, 405
+  Pasajero 405 bajó en 1 De Marzo, 405
+  Pasajero 117 bajó en 1 De Marzo, 405
+  Pasajero 339 bajó en 1 De Marzo, 405
+  Pasajero 368 bajó en 1 De Marzo, 405
+  Pasajero 66 bajó en 1 De Marzo, 405
+  Pasajero 88 bajó en 1 De Marzo, 405
+  Pasajero 217 bajó en 1 De Marzo, 405
+  Pasajero 392 bajó en 1 De Marzo, 405
+  Pasajero 425 bajó en 1 De Marzo, 405
+  Pasajero 427 bajó en 1 De Marzo, 405
+  ¡ATENCIÓN! 4 pasajeros quedaron esperando en 1 De Marzo, 405
+Parada 1 (1 De Marzo, 405): Suben 0, Bajan 13, A bordo: 0
+
+=== Iniciando recorrido completo para línea Línea L4 - Recorrido 2/5 ===
+
+--- Ida ---
+  ¡ATENCIÓN! 4 pasajeros quedaron esperando en 1 De Marzo, 405
+Parada 1 (1 De Marzo, 405): Suben 0, Bajan 0, A bordo: 0
+  ¡ATENCIÓN! 7 pasajeros quedaron esperando en 28 De Julio, 311
+Parada 6 (28 De Julio, 311): Suben 0, Bajan 0, A bordo: 0
+  ¡ATENCIÓN! 3 pasajeros quedaron esperando en Marcos A. Zar, 461
+Parada 75 (Marcos A. Zar, 461): Suben 0, Bajan 0, A bordo: 0
+  ¡ATENCIÓN! 3 pasajeros quedaron esperando en Marcos A. Zar, 691
+Parada 76 (Marcos A. Zar, 691): Suben 0, Bajan 0, A bordo: 0
+Parada 29 (Bouchard, 880): Suben 0, Bajan 0, A bordo: 0
+Parada 27 (Bouchard, 1285): Suben 0, Bajan 0, A bordo: 0
+Parada 87 (Rivadavia, 2476): Suben 0, Bajan 0, A bordo: 0
+Parada 86 (Rivadavia 2950): Suben 0, Bajan 0, A bordo: 0
+Parada 103 (Vito Roca 1106): Suben 0, Bajan 0, A bordo: 0
+Parada 70 (Manuel Alsua, 1086): Suben 0, Bajan 0, A bordo: 0
+Parada 60 (Juan Jose Meangolarra Y Moreno, 1005): Suben 0, Bajan 0, A bordo: 0
+
+--- Vuelta ---
+Parada 60 (Juan Jose Meangolarra Y Moreno, 1005): Suben 0, Bajan 0, A bordo: 0
+Parada 70 (Manuel Alsua, 1086): Suben 0, Bajan 0, A bordo: 0
+Parada 88 (Rivadavia, 2496): Suben 0, Bajan 0, A bordo: 0
+Parada 63 (Lewis Jones, 1336): Suben 0, Bajan 0, A bordo: 0
+Parada 65 (Lewis Jones, 919): Suben 0, Bajan 0, A bordo: 0
+Parada 64 (Lewis Jones, 200): Suben 0, Bajan 0, A bordo: 0
+Parada 77 (Mariano Moreno, 193): Suben 0, Bajan 0, A bordo: 0
+  ¡ATENCIÓN! 3 pasajeros quedaron esperando en Bartolom� Mitre, 610
+Parada 25 (Bartolom� Mitre, 610): Suben 0, Bajan 0, A bordo: 0
+  ¡ATENCIÓN! 3 pasajeros quedaron esperando en 28 De Julio, 200
+Parada 5 (28 De Julio, 200): Suben 0, Bajan 0, A bordo: 0
+  ¡ATENCIÓN! 4 pasajeros quedaron esperando en 1 De Marzo, 405
+Parada 1 (1 De Marzo, 405): Suben 0, Bajan 0, A bordo: 0
+
+=== Iniciando recorrido completo para línea Línea L4 - Recorrido 3/5 ===
+
+--- Ida ---
+  ¡ATENCIÓN! 4 pasajeros quedaron esperando en 1 De Marzo, 405
+Parada 1 (1 De Marzo, 405): Suben 0, Bajan 0, A bordo: 0
+  ¡ATENCIÓN! 7 pasajeros quedaron esperando en 28 De Julio, 311
+Parada 6 (28 De Julio, 311): Suben 0, Bajan 0, A bordo: 0
+  ¡ATENCIÓN! 3 pasajeros quedaron esperando en Marcos A. Zar, 461
+Parada 75 (Marcos A. Zar, 461): Suben 0, Bajan 0, A bordo: 0
+  ¡ATENCIÓN! 3 pasajeros quedaron esperando en Marcos A. Zar, 691
+Parada 76 (Marcos A. Zar, 691): Suben 0, Bajan 0, A bordo: 0
+Parada 29 (Bouchard, 880): Suben 0, Bajan 0, A bordo: 0
+Parada 27 (Bouchard, 1285): Suben 0, Bajan 0, A bordo: 0
+Parada 87 (Rivadavia, 2476): Suben 0, Bajan 0, A bordo: 0
+Parada 86 (Rivadavia 2950): Suben 0, Bajan 0, A bordo: 0
+Parada 103 (Vito Roca 1106): Suben 0, Bajan 0, A bordo: 0
+Parada 70 (Manuel Alsua, 1086): Suben 0, Bajan 0, A bordo: 0
+Parada 60 (Juan Jose Meangolarra Y Moreno, 1005): Suben 0, Bajan 0, A bordo: 0
+
+--- Vuelta ---
+Parada 60 (Juan Jose Meangolarra Y Moreno, 1005): Suben 0, Bajan 0, A bordo: 0
+Parada 70 (Manuel Alsua, 1086): Suben 0, Bajan 0, A bordo: 0
+Parada 88 (Rivadavia, 2496): Suben 0, Bajan 0, A bordo: 0
+Parada 63 (Lewis Jones, 1336): Suben 0, Bajan 0, A bordo: 0
+Parada 65 (Lewis Jones, 919): Suben 0, Bajan 0, A bordo: 0
+Parada 64 (Lewis Jones, 200): Suben 0, Bajan 0, A bordo: 0
+Parada 77 (Mariano Moreno, 193): Suben 0, Bajan 0, A bordo: 0
+  ¡ATENCIÓN! 3 pasajeros quedaron esperando en Bartolom� Mitre, 610
+Parada 25 (Bartolom� Mitre, 610): Suben 0, Bajan 0, A bordo: 0
+  ¡ATENCIÓN! 3 pasajeros quedaron esperando en 28 De Julio, 200
+Parada 5 (28 De Julio, 200): Suben 0, Bajan 0, A bordo: 0
+  ¡ATENCIÓN! 4 pasajeros quedaron esperando en 1 De Marzo, 405
+Parada 1 (1 De Marzo, 405): Suben 0, Bajan 0, A bordo: 0
+
+=== Iniciando recorrido completo para línea Línea L4 - Recorrido 4/5 ===
+
+--- Ida ---
+  ¡ATENCIÓN! 4 pasajeros quedaron esperando en 1 De Marzo, 405
+Parada 1 (1 De Marzo, 405): Suben 0, Bajan 0, A bordo: 0
+  ¡ATENCIÓN! 7 pasajeros quedaron esperando en 28 De Julio, 311
+Parada 6 (28 De Julio, 311): Suben 0, Bajan 0, A bordo: 0
+  ¡ATENCIÓN! 3 pasajeros quedaron esperando en Marcos A. Zar, 461
+Parada 75 (Marcos A. Zar, 461): Suben 0, Bajan 0, A bordo: 0
+  ¡ATENCIÓN! 3 pasajeros quedaron esperando en Marcos A. Zar, 691
+Parada 76 (Marcos A. Zar, 691): Suben 0, Bajan 0, A bordo: 0
+Parada 29 (Bouchard, 880): Suben 0, Bajan 0, A bordo: 0
+Parada 27 (Bouchard, 1285): Suben 0, Bajan 0, A bordo: 0
+Parada 87 (Rivadavia, 2476): Suben 0, Bajan 0, A bordo: 0
+Parada 86 (Rivadavia 2950): Suben 0, Bajan 0, A bordo: 0
+Parada 103 (Vito Roca 1106): Suben 0, Bajan 0, A bordo: 0
+Parada 70 (Manuel Alsua, 1086): Suben 0, Bajan 0, A bordo: 0
+Parada 60 (Juan Jose Meangolarra Y Moreno, 1005): Suben 0, Bajan 0, A bordo: 0
+
+--- Vuelta ---
+Parada 60 (Juan Jose Meangolarra Y Moreno, 1005): Suben 0, Bajan 0, A bordo: 0
+Parada 70 (Manuel Alsua, 1086): Suben 0, Bajan 0, A bordo: 0
+Parada 88 (Rivadavia, 2496): Suben 0, Bajan 0, A bordo: 0
+Parada 63 (Lewis Jones, 1336): Suben 0, Bajan 0, A bordo: 0
+Parada 65 (Lewis Jones, 919): Suben 0, Bajan 0, A bordo: 0
+Parada 64 (Lewis Jones, 200): Suben 0, Bajan 0, A bordo: 0
+Parada 77 (Mariano Moreno, 193): Suben 0, Bajan 0, A bordo: 0
+  ¡ATENCIÓN! 3 pasajeros quedaron esperando en Bartolom� Mitre, 610
+Parada 25 (Bartolom� Mitre, 610): Suben 0, Bajan 0, A bordo: 0
+  ¡ATENCIÓN! 3 pasajeros quedaron esperando en 28 De Julio, 200
+Parada 5 (28 De Julio, 200): Suben 0, Bajan 0, A bordo: 0
+  ¡ATENCIÓN! 4 pasajeros quedaron esperando en 1 De Marzo, 405
+Parada 1 (1 De Marzo, 405): Suben 0, Bajan 0, A bordo: 0
+
+=== Iniciando recorrido completo para línea Línea L4 - Recorrido 5/5 ===
+
+--- Ida ---
+  ¡ATENCIÓN! 4 pasajeros quedaron esperando en 1 De Marzo, 405
+Parada 1 (1 De Marzo, 405): Suben 0, Bajan 0, A bordo: 0
+  ¡ATENCIÓN! 7 pasajeros quedaron esperando en 28 De Julio, 311
+Parada 6 (28 De Julio, 311): Suben 0, Bajan 0, A bordo: 0
+  ¡ATENCIÓN! 3 pasajeros quedaron esperando en Marcos A. Zar, 461
+Parada 75 (Marcos A. Zar, 461): Suben 0, Bajan 0, A bordo: 0
+  ¡ATENCIÓN! 3 pasajeros quedaron esperando en Marcos A. Zar, 691
+Parada 76 (Marcos A. Zar, 691): Suben 0, Bajan 0, A bordo: 0
+Parada 29 (Bouchard, 880): Suben 0, Bajan 0, A bordo: 0
+Parada 27 (Bouchard, 1285): Suben 0, Bajan 0, A bordo: 0
+Parada 87 (Rivadavia, 2476): Suben 0, Bajan 0, A bordo: 0
+Parada 86 (Rivadavia 2950): Suben 0, Bajan 0, A bordo: 0
+Parada 103 (Vito Roca 1106): Suben 0, Bajan 0, A bordo: 0
+Parada 70 (Manuel Alsua, 1086): Suben 0, Bajan 0, A bordo: 0
+Parada 60 (Juan Jose Meangolarra Y Moreno, 1005): Suben 0, Bajan 0, A bordo: 0
+
+--- Vuelta ---
+Parada 60 (Juan Jose Meangolarra Y Moreno, 1005): Suben 0, Bajan 0, A bordo: 0
+Parada 70 (Manuel Alsua, 1086): Suben 0, Bajan 0, A bordo: 0
+Parada 88 (Rivadavia, 2496): Suben 0, Bajan 0, A bordo: 0
+Parada 63 (Lewis Jones, 1336): Suben 0, Bajan 0, A bordo: 0
+Parada 65 (Lewis Jones, 919): Suben 0, Bajan 0, A bordo: 0
+Parada 64 (Lewis Jones, 200): Suben 0, Bajan 0, A bordo: 0
+Parada 77 (Mariano Moreno, 193): Suben 0, Bajan 0, A bordo: 0
+  ¡ATENCIÓN! 3 pasajeros quedaron esperando en Bartolom� Mitre, 610
+Parada 25 (Bartolom� Mitre, 610): Suben 0, Bajan 0, A bordo: 0
+  ¡ATENCIÓN! 3 pasajeros quedaron esperando en 28 De Julio, 200
+Parada 5 (28 De Julio, 200): Suben 0, Bajan 0, A bordo: 0
+  ¡ATENCIÓN! 4 pasajeros quedaron esperando en 1 De Marzo, 405
+Parada 1 (1 De Marzo, 405): Suben 0, Bajan 0, A bordo: 0
+
+=== Iniciando recorrido completo para línea Línea L5 - Recorrido 1/3 ===
+
+--- Ida ---
+  Pasajero 82 subió en Esquel, 1352
+  Pasajero 87 subió en Esquel, 1352
+  Pasajero 175 subió en Esquel, 1352
+  Pasajero 234 subió en Esquel, 1352
+  Pasajero 387 subió en Esquel, 1352
+Parada 48 (Esquel, 1352): Suben 5, Bajan 0, A bordo: 5
+  Pasajero 82 bajó en Magallanes, 883
+  Pasajero 204 subió en Magallanes, 883
+  Pasajero 235 subió en Magallanes, 883
+  Pasajero 369 subió en Magallanes, 883
+  Pasajero 382 subió en Magallanes, 883
+Parada 69 (Magallanes, 883): Suben 4, Bajan 1, A bordo: 8
+  Pasajero 268 subió en Juan Bautista Alberdi, 1240
+  Pasajero 374 subió en Juan Bautista Alberdi, 1240
+  Pasajero 400 subió en Juan Bautista Alberdi, 1240
+  Pasajero 451 subió en Juan Bautista Alberdi, 1240
+Parada 59 (Juan Bautista Alberdi, 1240): Suben 4, Bajan 0, A bordo: 12
+  Pasajero 6 subió en Hip�lito Yrigoyen, 802
+  Pasajero 18 subió en Hip�lito Yrigoyen, 802
+  Pasajero 98 subió en Hip�lito Yrigoyen, 802
+  Pasajero 352 subió en Hip�lito Yrigoyen, 802
+Parada 55 (Hip�lito Yrigoyen, 802): Suben 4, Bajan 0, A bordo: 16
+  Pasajero 234 bajó en Gobernador Alejandro Maiz, 315
+  Pasajero 387 bajó en Gobernador Alejandro Maiz, 315
+  Pasajero 235 bajó en Gobernador Alejandro Maiz, 315
+  Pasajero 369 bajó en Gobernador Alejandro Maiz, 315
+  Pasajero 97 subió en Gobernador Alejandro Maiz, 315
+  Pasajero 128 subió en Gobernador Alejandro Maiz, 315
+  Pasajero 145 subió en Gobernador Alejandro Maiz, 315
+Parada 53 (Gobernador Alejandro Maiz, 315): Suben 3, Bajan 4, A bordo: 15
+  Pasajero 352 bajó en Belgrano, 314
+  Pasajero 97 bajó en Belgrano, 314
+  Pasajero 20 subió en Belgrano, 314
+  Pasajero 26 subió en Belgrano, 314
+  Pasajero 73 subió en Belgrano, 314
+  Pasajero 238 subió en Belgrano, 314
+  Pasajero 409 subió en Belgrano, 314
+  Pasajero 479 subió en Belgrano, 314
+  Pasajero 480 subió en Belgrano, 314
+  Pasajero 482 subió en Belgrano, 314
+Parada 26 (Belgrano, 314): Suben 8, Bajan 2, A bordo: 21
+  Pasajero 382 bajó en 25 De Mayo, 299
+  Pasajero 7 subió en 25 De Mayo, 299
+  Pasajero 10 subió en 25 De Mayo, 299
+  Pasajero 74 subió en 25 De Mayo, 299
+  Pasajero 191 subió en 25 De Mayo, 299
+  Pasajero 355 subió en 25 De Mayo, 299
+Parada 3 (25 De Mayo, 299): Suben 5, Bajan 1, A bordo: 25
+  Pasajero 87 bajó en 25 De Mayo, 693
+  Pasajero 374 bajó en 25 De Mayo, 693
+  Pasajero 145 bajó en 25 De Mayo, 693
+  Pasajero 20 bajó en 25 De Mayo, 693
+  Pasajero 26 bajó en 25 De Mayo, 693
+  Pasajero 479 bajó en 25 De Mayo, 693
+  Pasajero 480 bajó en 25 De Mayo, 693
+  Pasajero 482 bajó en 25 De Mayo, 693
+  Pasajero 74 bajó en 25 De Mayo, 693
+  Pasajero 287 subió en 25 De Mayo, 693
+  Pasajero 323 subió en 25 De Mayo, 693
+  Pasajero 385 subió en 25 De Mayo, 693
+  Pasajero 406 subió en 25 De Mayo, 693
+Parada 4 (25 De Mayo, 693): Suben 4, Bajan 9, A bordo: 20
+  Pasajero 268 bajó en Espa�a, 485
+  Pasajero 18 bajó en Espa�a, 485
+  Pasajero 10 bajó en Espa�a, 485
+  Pasajero 355 bajó en Espa�a, 485
+  Pasajero 103 subió en Espa�a, 485
+  Pasajero 214 subió en Espa�a, 485
+  Pasajero 296 subió en Espa�a, 485
+  Pasajero 373 subió en Espa�a, 485
+Parada 46 (Espa�a, 485): Suben 4, Bajan 4, A bordo: 20
+  Pasajero 400 bajó en Villegas, 700
+  Pasajero 451 bajó en Villegas, 700
+  Pasajero 409 bajó en Villegas, 700
+  Pasajero 323 bajó en Villegas, 700
+  Pasajero 146 subió en Villegas, 700
+  Pasajero 338 subió en Villegas, 700
+  Pasajero 416 subió en Villegas, 700
+  Pasajero 476 subió en Villegas, 700
+Parada 102 (Villegas, 700): Suben 4, Bajan 4, A bordo: 20
+  Pasajero 204 bajó en Espa�a, 1431
+  Pasajero 98 bajó en Espa�a, 1431
+  Pasajero 7 bajó en Espa�a, 1431
+  Pasajero 287 bajó en Espa�a, 1431
+  Pasajero 103 bajó en Espa�a, 1431
+  Pasajero 296 bajó en Espa�a, 1431
+  Pasajero 338 bajó en Espa�a, 1431
+  Pasajero 100 subió en Espa�a, 1431
+  Pasajero 239 subió en Espa�a, 1431
+  Pasajero 397 subió en Espa�a, 1431
+Parada 42 (Espa�a, 1431): Suben 3, Bajan 7, A bordo: 16
+  Pasajero 175 bajó en La Pampa, 698
+  Pasajero 6 bajó en La Pampa, 698
+  Pasajero 128 bajó en La Pampa, 698
+  Pasajero 73 bajó en La Pampa, 698
+  Pasajero 406 bajó en La Pampa, 698
+  Pasajero 373 bajó en La Pampa, 698
+Parada 62 (La Pampa, 698): Suben 0, Bajan 6, A bordo: 10
+  Pasajero 238 bajó en Luis Urtazun, 624
+  Pasajero 191 bajó en Luis Urtazun, 624
+  Pasajero 385 bajó en Luis Urtazun, 624
+  Pasajero 214 bajó en Luis Urtazun, 624
+  Pasajero 146 bajó en Luis Urtazun, 624
+  Pasajero 416 bajó en Luis Urtazun, 624
+  Pasajero 476 bajó en Luis Urtazun, 624
+  Pasajero 100 bajó en Luis Urtazun, 624
+  Pasajero 239 bajó en Luis Urtazun, 624
+  Pasajero 397 bajó en Luis Urtazun, 624
+Parada 68 (Luis Urtazun, 624): Suben 0, Bajan 10, A bordo: 0
+
+--- Vuelta ---
+  Pasajero 11 subió en Luis Urtazun, 1005
+Parada 67 (Luis Urtazun, 1005): Suben 1, Bajan 0, A bordo: 1
+  Pasajero 311 subió en Ruperto Gimenez, 678
+Parada 91 (Ruperto Gimenez, 678): Suben 1, Bajan 0, A bordo: 2
+  Pasajero 190 subió en Vito Roca 705
+  Pasajero 467 subió en Vito Roca 705
+  Pasajero 495 subió en Vito Roca 705
+Parada 104 (Vito Roca 705): Suben 3, Bajan 0, A bordo: 5
+  Pasajero 211 subió en Manuel Garc�a 705
+  Pasajero 367 subió en Manuel Garc�a 705
+  Pasajero 430 subió en Manuel Garc�a 705
+  Pasajero 450 subió en Manuel Garc�a 705
+Parada 72 (Manuel Garc�a 705): Suben 4, Bajan 0, A bordo: 9
+  Pasajero 330 subió en Periodistas Chubutenses, 500
+  Pasajero 375 subió en Periodistas Chubutenses, 500
+Parada 85 (Periodistas Chubutenses, 500): Suben 2, Bajan 0, A bordo: 11
+  Pasajero 155 subió en Jos� Contin 712
+Parada 57 (Jos� Contin 712): Suben 1, Bajan 0, A bordo: 12
+  Pasajero 44 subió en Jos� Alberdi 720
+  Pasajero 45 subió en Jos� Alberdi 720
+  Pasajero 166 subió en Jos� Alberdi 720
+Parada 56 (Jos� Alberdi 720): Suben 3, Bajan 0, A bordo: 15
+  Pasajero 330 bajó en Santiago Del Estero, 727
+  Pasajero 9 subió en Santiago Del Estero, 727
+  Pasajero 56 subió en Santiago Del Estero, 727
+  Pasajero 426 subió en Santiago Del Estero, 727
+Parada 98 (Santiago Del Estero, 727): Suben 3, Bajan 1, A bordo: 17
+  Pasajero 155 bajó en Espa�a 2451
+  Pasajero 343 subió en Espa�a 2451
+Parada 41 (Espa�a 2451): Suben 1, Bajan 1, A bordo: 17
+  Pasajero 202 subió en Espa�a, 1660
+Parada 44 (Espa�a, 1660): Suben 1, Bajan 0, A bordo: 18
+  Pasajero 11 bajó en Espa�a, 1450
+  Pasajero 134 subió en Espa�a, 1450
+  Pasajero 149 subió en Espa�a, 1450
+  Pasajero 225 subió en Espa�a, 1450
+  Pasajero 413 subió en Espa�a, 1450
+Parada 43 (Espa�a, 1450): Suben 4, Bajan 1, A bordo: 21
+  Pasajero 311 bajó en Espa�a, 928
+  Pasajero 202 bajó en Espa�a, 928
+  Pasajero 149 bajó en Espa�a, 928
+  Pasajero 77 subió en Espa�a, 928
+  Pasajero 233 subió en Espa�a, 928
+  Pasajero 423 subió en Espa�a, 928
+Parada 47 (Espa�a, 928): Suben 3, Bajan 3, A bordo: 21
+  Pasajero 450 bajó en Sarmiento, 229
+  Pasajero 134 bajó en Sarmiento, 229
+  Pasajero 420 subió en Sarmiento, 229
+Parada 99 (Sarmiento, 229): Suben 1, Bajan 2, A bordo: 20
+  Pasajero 367 bajó en Bartolom� Mitre, 401
+  Pasajero 343 bajó en Bartolom� Mitre, 401
+  Pasajero 270 subió en Bartolom� Mitre, 401
+  Pasajero 356 subió en Bartolom� Mitre, 401
+  ¡ATENCIÓN! 3 pasajeros quedaron esperando en Bartolom� Mitre, 401
+Parada 24 (Bartolom� Mitre, 401): Suben 2, Bajan 2, A bordo: 20
+  Pasajero 495 bajó en 28 De Julio, 200
+  Pasajero 77 bajó en 28 De Julio, 200
+  Pasajero 356 bajó en 28 De Julio, 200
+  Pasajero 185 subió en 28 De Julio, 200
+  Pasajero 394 subió en 28 De Julio, 200
+  ¡ATENCIÓN! 1 pasajeros quedaron esperando en 28 De Julio, 200
+Parada 5 (28 De Julio, 200): Suben 2, Bajan 3, A bordo: 19
+  Pasajero 190 bajó en Hip�lito Yrigoyen, 457
+  Pasajero 211 bajó en Hip�lito Yrigoyen, 457
+  Pasajero 45 bajó en Hip�lito Yrigoyen, 457
+  Pasajero 166 bajó en Hip�lito Yrigoyen, 457
+  Pasajero 60 subió en Hip�lito Yrigoyen, 457
+  Pasajero 86 subió en Hip�lito Yrigoyen, 457
+  Pasajero 277 subió en Hip�lito Yrigoyen, 457
+  Pasajero 335 subió en Hip�lito Yrigoyen, 457
+  Pasajero 486 subió en Hip�lito Yrigoyen, 457
+Parada 54 (Hip�lito Yrigoyen, 457): Suben 5, Bajan 4, A bordo: 20
+  Pasajero 413 bajó en Bouchard, 400
+  Pasajero 420 bajó en Bouchard, 400
+  Pasajero 394 bajó en Bouchard, 400
+  Pasajero 486 bajó en Bouchard, 400
+  Pasajero 198 subió en Bouchard, 400
+  Pasajero 291 subió en Bouchard, 400
+  Pasajero 361 subió en Bouchard, 400
+  Pasajero 410 subió en Bouchard, 400
+Parada 28 (Bouchard, 400): Suben 4, Bajan 4, A bordo: 20
+  Pasajero 423 bajó en Vicente L�pez Y Planes, 315
+  Pasajero 410 bajó en Vicente L�pez Y Planes, 315
+  Pasajero 213 subió en Vicente L�pez Y Planes, 315
+  Pasajero 230 subió en Vicente L�pez Y Planes, 315
+Parada 101 (Vicente L�pez Y Planes, 315): Suben 2, Bajan 2, A bordo: 20
+  Pasajero 44 bajó en Avenida Juan Xxiii, 1708
+  Pasajero 56 bajó en Avenida Juan Xxiii, 1708
+  Pasajero 426 bajó en Avenida Juan Xxiii, 1708
+  Pasajero 270 bajó en Avenida Juan Xxiii, 1708
+  Pasajero 277 bajó en Avenida Juan Xxiii, 1708
+Parada 18 (Avenida Juan Xxiii, 1708): Suben 0, Bajan 5, A bordo: 15
+  Pasajero 467 bajó en Necochea, 1022
+  Pasajero 9 bajó en Necochea, 1022
+  Pasajero 225 bajó en Necochea, 1022
+  Pasajero 233 bajó en Necochea, 1022
+  Pasajero 60 bajó en Necochea, 1022
+  Pasajero 86 bajó en Necochea, 1022
+  Pasajero 335 bajó en Necochea, 1022
+  Pasajero 198 bajó en Necochea, 1022
+  Pasajero 213 bajó en Necochea, 1022
+  Pasajero 168 subió en Necochea, 1022
+  Pasajero 278 subió en Necochea, 1022
+Parada 78 (Necochea, 1022): Suben 2, Bajan 9, A bordo: 8
+  Pasajero 430 bajó en Alto R�o Senguer, 1311
+  Pasajero 375 bajó en Alto R�o Senguer, 1311
+  Pasajero 185 bajó en Alto R�o Senguer, 1311
+  Pasajero 291 bajó en Alto R�o Senguer, 1311
+  Pasajero 361 bajó en Alto R�o Senguer, 1311
+  Pasajero 230 bajó en Alto R�o Senguer, 1311
+  Pasajero 168 bajó en Alto R�o Senguer, 1311
+  Pasajero 278 bajó en Alto R�o Senguer, 1311
+Parada 13 (Alto R�o Senguer, 1311): Suben 0, Bajan 8, A bordo: 0
+
+=== Iniciando recorrido completo para línea Línea L5 - Recorrido 2/3 ===
+
+--- Ida ---
+Parada 48 (Esquel, 1352): Suben 0, Bajan 0, A bordo: 0
+Parada 69 (Magallanes, 883): Suben 0, Bajan 0, A bordo: 0
+Parada 59 (Juan Bautista Alberdi, 1240): Suben 0, Bajan 0, A bordo: 0
+Parada 55 (Hip�lito Yrigoyen, 802): Suben 0, Bajan 0, A bordo: 0
+Parada 53 (Gobernador Alejandro Maiz, 315): Suben 0, Bajan 0, A bordo: 0
+Parada 26 (Belgrano, 314): Suben 0, Bajan 0, A bordo: 0
+Parada 3 (25 De Mayo, 299): Suben 0, Bajan 0, A bordo: 0
+Parada 4 (25 De Mayo, 693): Suben 0, Bajan 0, A bordo: 0
+Parada 46 (Espa�a, 485): Suben 0, Bajan 0, A bordo: 0
+Parada 102 (Villegas, 700): Suben 0, Bajan 0, A bordo: 0
+Parada 42 (Espa�a, 1431): Suben 0, Bajan 0, A bordo: 0
+Parada 62 (La Pampa, 698): Suben 0, Bajan 0, A bordo: 0
+Parada 68 (Luis Urtazun, 624): Suben 0, Bajan 0, A bordo: 0
+
+--- Vuelta ---
+Parada 67 (Luis Urtazun, 1005): Suben 0, Bajan 0, A bordo: 0
+Parada 91 (Ruperto Gimenez, 678): Suben 0, Bajan 0, A bordo: 0
+Parada 104 (Vito Roca 705): Suben 0, Bajan 0, A bordo: 0
+Parada 72 (Manuel Garc�a 705): Suben 0, Bajan 0, A bordo: 0
+Parada 85 (Periodistas Chubutenses, 500): Suben 0, Bajan 0, A bordo: 0
+Parada 57 (Jos� Contin 712): Suben 0, Bajan 0, A bordo: 0
+Parada 56 (Jos� Alberdi 720): Suben 0, Bajan 0, A bordo: 0
+Parada 98 (Santiago Del Estero, 727): Suben 0, Bajan 0, A bordo: 0
+Parada 41 (Espa�a 2451): Suben 0, Bajan 0, A bordo: 0
+Parada 44 (Espa�a, 1660): Suben 0, Bajan 0, A bordo: 0
+Parada 43 (Espa�a, 1450): Suben 0, Bajan 0, A bordo: 0
+Parada 47 (Espa�a, 928): Suben 0, Bajan 0, A bordo: 0
+Parada 99 (Sarmiento, 229): Suben 0, Bajan 0, A bordo: 0
+  ¡ATENCIÓN! 3 pasajeros quedaron esperando en Bartolom� Mitre, 401
+Parada 24 (Bartolom� Mitre, 401): Suben 0, Bajan 0, A bordo: 0
+  ¡ATENCIÓN! 1 pasajeros quedaron esperando en 28 De Julio, 200
+Parada 5 (28 De Julio, 200): Suben 0, Bajan 0, A bordo: 0
+Parada 54 (Hip�lito Yrigoyen, 457): Suben 0, Bajan 0, A bordo: 0
+Parada 28 (Bouchard, 400): Suben 0, Bajan 0, A bordo: 0
+Parada 101 (Vicente L�pez Y Planes, 315): Suben 0, Bajan 0, A bordo: 0
+Parada 18 (Avenida Juan Xxiii, 1708): Suben 0, Bajan 0, A bordo: 0
+Parada 78 (Necochea, 1022): Suben 0, Bajan 0, A bordo: 0
+Parada 13 (Alto R�o Senguer, 1311): Suben 0, Bajan 0, A bordo: 0
+
+=== Iniciando recorrido completo para línea Línea L5 - Recorrido 3/3 ===
+
+--- Ida ---
+Parada 48 (Esquel, 1352): Suben 0, Bajan 0, A bordo: 0
+Parada 69 (Magallanes, 883): Suben 0, Bajan 0, A bordo: 0
+Parada 59 (Juan Bautista Alberdi, 1240): Suben 0, Bajan 0, A bordo: 0
+Parada 55 (Hip�lito Yrigoyen, 802): Suben 0, Bajan 0, A bordo: 0
+Parada 53 (Gobernador Alejandro Maiz, 315): Suben 0, Bajan 0, A bordo: 0
+Parada 26 (Belgrano, 314): Suben 0, Bajan 0, A bordo: 0
+Parada 3 (25 De Mayo, 299): Suben 0, Bajan 0, A bordo: 0
+Parada 4 (25 De Mayo, 693): Suben 0, Bajan 0, A bordo: 0
+Parada 46 (Espa�a, 485): Suben 0, Bajan 0, A bordo: 0
+Parada 102 (Villegas, 700): Suben 0, Bajan 0, A bordo: 0
+Parada 42 (Espa�a, 1431): Suben 0, Bajan 0, A bordo: 0
+Parada 62 (La Pampa, 698): Suben 0, Bajan 0, A bordo: 0
+Parada 68 (Luis Urtazun, 624): Suben 0, Bajan 0, A bordo: 0
+
+--- Vuelta ---
+Parada 67 (Luis Urtazun, 1005): Suben 0, Bajan 0, A bordo: 0
+Parada 91 (Ruperto Gimenez, 678): Suben 0, Bajan 0, A bordo: 0
+Parada 104 (Vito Roca 705): Suben 0, Bajan 0, A bordo: 0
+Parada 72 (Manuel Garc�a 705): Suben 0, Bajan 0, A bordo: 0
+Parada 85 (Periodistas Chubutenses, 500): Suben 0, Bajan 0, A bordo: 0
+Parada 57 (Jos� Contin 712): Suben 0, Bajan 0, A bordo: 0
+Parada 56 (Jos� Alberdi 720): Suben 0, Bajan 0, A bordo: 0
+Parada 98 (Santiago Del Estero, 727): Suben 0, Bajan 0, A bordo: 0
+Parada 41 (Espa�a 2451): Suben 0, Bajan 0, A bordo: 0
+Parada 44 (Espa�a, 1660): Suben 0, Bajan 0, A bordo: 0
+Parada 43 (Espa�a, 1450): Suben 0, Bajan 0, A bordo: 0
+Parada 47 (Espa�a, 928): Suben 0, Bajan 0, A bordo: 0
+Parada 99 (Sarmiento, 229): Suben 0, Bajan 0, A bordo: 0
+  ¡ATENCIÓN! 3 pasajeros quedaron esperando en Bartolom� Mitre, 401
+Parada 24 (Bartolom� Mitre, 401): Suben 0, Bajan 0, A bordo: 0
+  ¡ATENCIÓN! 1 pasajeros quedaron esperando en 28 De Julio, 200
+Parada 5 (28 De Julio, 200): Suben 0, Bajan 0, A bordo: 0
+Parada 54 (Hip�lito Yrigoyen, 457): Suben 0, Bajan 0, A bordo: 0
+Parada 28 (Bouchard, 400): Suben 0, Bajan 0, A bordo: 0
+Parada 101 (Vicente L�pez Y Planes, 315): Suben 0, Bajan 0, A bordo: 0
+Parada 18 (Avenida Juan Xxiii, 1708): Suben 0, Bajan 0, A bordo: 0
+Parada 78 (Necochea, 1022): Suben 0, Bajan 0, A bordo: 0
+Parada 13 (Alto R�o Senguer, 1311): Suben 0, Bajan 0, A bordo: 0
+
+=== Iniciando recorrido completo para línea Línea L6 - Recorrido 1/2 ===
+
+--- Ida ---
+  Pasajero 62 subió en 1 De Marzo, 405
+  Pasajero 84 subió en 1 De Marzo, 405
+  Pasajero 159 subió en 1 De Marzo, 405
+  Pasajero 457 subió en 1 De Marzo, 405
+Parada 1 (1 De Marzo, 405): Suben 4, Bajan 0, A bordo: 4
+  Pasajero 84 bajó en 28 De Julio, 311
+  Pasajero 47 subió en 28 De Julio, 311
+  Pasajero 68 subió en 28 De Julio, 311
+  Pasajero 108 subió en 28 De Julio, 311
+  Pasajero 118 subió en 28 De Julio, 311
+  Pasajero 260 subió en 28 De Julio, 311
+  Pasajero 380 subió en 28 De Julio, 311
+  Pasajero 491 subió en 28 De Julio, 311
+Parada 6 (28 De Julio, 311): Suben 7, Bajan 1, A bordo: 10
+  Pasajero 62 bajó en Marcos A. Zar, 461
+  Pasajero 118 bajó en Marcos A. Zar, 461
+  Pasajero 491 bajó en Marcos A. Zar, 461
+  Pasajero 314 subió en Marcos A. Zar, 461
+  Pasajero 443 subió en Marcos A. Zar, 461
+  Pasajero 454 subió en Marcos A. Zar, 461
+Parada 75 (Marcos A. Zar, 461): Suben 3, Bajan 3, A bordo: 10
+  Pasajero 47 bajó en Marcos A. Zar, 691
+  Pasajero 260 bajó en Marcos A. Zar, 691
+  Pasajero 138 subió en Marcos A. Zar, 691
+  Pasajero 351 subió en Marcos A. Zar, 691
+  Pasajero 422 subió en Marcos A. Zar, 691
+Parada 76 (Marcos A. Zar, 691): Suben 3, Bajan 2, A bordo: 11
+  Pasajero 159 bajó en Dorrego, 669
+  Pasajero 108 bajó en Dorrego, 669
+  Pasajero 314 bajó en Dorrego, 669
+  Pasajero 443 bajó en Dorrego, 669
+  Pasajero 454 bajó en Dorrego, 669
+  Pasajero 92 subió en Dorrego, 669
+  Pasajero 318 subió en Dorrego, 669
+  Pasajero 401 subió en Dorrego, 669
+  Pasajero 437 subió en Dorrego, 669
+Parada 38 (Dorrego, 669): Suben 4, Bajan 5, A bordo: 10
+  Pasajero 68 bajó en El Jariyal, 1725
+  Pasajero 138 bajó en El Jariyal, 1725
+  Pasajero 422 bajó en El Jariyal, 1725
+  Pasajero 92 bajó en El Jariyal, 1725
+  Pasajero 401 bajó en El Jariyal, 1725
+  Pasajero 437 bajó en El Jariyal, 1725
+  Pasajero 5 subió en El Jariyal, 1725
+  Pasajero 85 subió en El Jariyal, 1725
+  Pasajero 188 subió en El Jariyal, 1725
+  Pasajero 205 subió en El Jariyal, 1725
+  Pasajero 243 subió en El Jariyal, 1725
+  Pasajero 360 subió en El Jariyal, 1725
+Parada 40 (El Jariyal, 1725): Suben 6, Bajan 6, A bordo: 10
+  Pasajero 457 bajó en Los Alamos, 3900
+  Pasajero 380 bajó en Los Alamos, 3900
+  Pasajero 351 bajó en Los Alamos, 3900
+  Pasajero 318 bajó en Los Alamos, 3900
+  Pasajero 5 bajó en Los Alamos, 3900
+  Pasajero 85 bajó en Los Alamos, 3900
+  Pasajero 188 bajó en Los Alamos, 3900
+  Pasajero 205 bajó en Los Alamos, 3900
+  Pasajero 243 bajó en Los Alamos, 3900
+  Pasajero 360 bajó en Los Alamos, 3900
+Parada 66 (Los Alamos, 3900): Suben 0, Bajan 10, A bordo: 0
+
+--- Vuelta ---
+Parada 66 (Los Alamos, 3900): Suben 0, Bajan 0, A bordo: 0
+  Pasajero 147 subió en Ca�a Colihue, 1184
+  Pasajero 183 subió en Ca�a Colihue, 1184
+  Pasajero 257 subió en Ca�a Colihue, 1184
+  Pasajero 279 subió en Ca�a Colihue, 1184
+Parada 32 (Ca�a Colihue, 1184): Suben 4, Bajan 0, A bordo: 4
+  Pasajero 33 subió en Dorrego, 700
+  Pasajero 152 subió en Dorrego, 700
+  Pasajero 303 subió en Dorrego, 700
+Parada 39 (Dorrego, 700): Suben 3, Bajan 0, A bordo: 7
+  Pasajero 227 subió en Alsua De Corbetto, 638
+  Pasajero 275 subió en Alsua De Corbetto, 638
+  Pasajero 290 subió en Alsua De Corbetto, 638
+Parada 12 (Alsua De Corbetto, 638): Suben 3, Bajan 0, A bordo: 10
+  Pasajero 306 subió en Avenida Julio Argentino Roca, 2599
+Parada 22 (Avenida Julio Argentino Roca, 2599): Suben 1, Bajan 0, A bordo: 11
+  Pasajero 297 subió en Chiquichan, 22
+Parada 33 (Chiquichan, 22): Suben 1, Bajan 0, A bordo: 12
+  Pasajero 297 bajó en Avenida Julio Argentino Roca, 1615
+  Pasajero 39 subió en Avenida Julio Argentino Roca, 1615
+  Pasajero 229 subió en Avenida Julio Argentino Roca, 1615
+  Pasajero 455 subió en Avenida Julio Argentino Roca, 1615
+Parada 20 (Avenida Julio Argentino Roca, 1615): Suben 3, Bajan 1, A bordo: 14
+  Pasajero 344 subió en Avenida Julio Argentino Roca, 936
+Parada 23 (Avenida Julio Argentino Roca, 936): Suben 1, Bajan 0, A bordo: 15
+  Pasajero 257 bajó en Bartolom� Mitre, 610
+  Pasajero 303 bajó en Bartolom� Mitre, 610
+  Pasajero 414 subió en Bartolom� Mitre, 610
+  Pasajero 438 subió en Bartolom� Mitre, 610
+  Pasajero 498 subió en Bartolom� Mitre, 610
+Parada 25 (Bartolom� Mitre, 610): Suben 3, Bajan 2, A bordo: 16
+  Pasajero 275 bajó en Bartolom� Mitre, 401
+  Pasajero 306 bajó en Bartolom� Mitre, 401
+  Pasajero 498 bajó en Bartolom� Mitre, 401
+  Pasajero 14 subió en Bartolom� Mitre, 401
+  Pasajero 379 subió en Bartolom� Mitre, 401
+  Pasajero 424 subió en Bartolom� Mitre, 401
+Parada 24 (Bartolom� Mitre, 401): Suben 3, Bajan 3, A bordo: 16
+  Pasajero 183 bajó en 28 De Julio, 200
+  Pasajero 227 bajó en 28 De Julio, 200
+  Pasajero 39 bajó en 28 De Julio, 200
+  Pasajero 455 bajó en 28 De Julio, 200
+  Pasajero 414 bajó en 28 De Julio, 200
+  Pasajero 438 bajó en 28 De Julio, 200
+  Pasajero 14 bajó en 28 De Julio, 200
+  Pasajero 379 bajó en 28 De Julio, 200
+  Pasajero 424 bajó en 28 De Julio, 200
+  Pasajero 95 subió en 28 De Julio, 200
+Parada 5 (28 De Julio, 200): Suben 1, Bajan 9, A bordo: 8
+  Pasajero 147 bajó en 1 De Marzo, 405
+  Pasajero 279 bajó en 1 De Marzo, 405
+  Pasajero 33 bajó en 1 De Marzo, 405
+  Pasajero 152 bajó en 1 De Marzo, 405
+  Pasajero 290 bajó en 1 De Marzo, 405
+  Pasajero 229 bajó en 1 De Marzo, 405
+  Pasajero 344 bajó en 1 De Marzo, 405
+  Pasajero 95 bajó en 1 De Marzo, 405
+Parada 1 (1 De Marzo, 405): Suben 0, Bajan 8, A bordo: 0
+
+=== Iniciando recorrido completo para línea Línea L6 - Recorrido 2/2 ===
+
+--- Ida ---
+Parada 1 (1 De Marzo, 405): Suben 0, Bajan 0, A bordo: 0
+Parada 6 (28 De Julio, 311): Suben 0, Bajan 0, A bordo: 0
+Parada 75 (Marcos A. Zar, 461): Suben 0, Bajan 0, A bordo: 0
+Parada 76 (Marcos A. Zar, 691): Suben 0, Bajan 0, A bordo: 0
+Parada 38 (Dorrego, 669): Suben 0, Bajan 0, A bordo: 0
+Parada 40 (El Jariyal, 1725): Suben 0, Bajan 0, A bordo: 0
+Parada 66 (Los Alamos, 3900): Suben 0, Bajan 0, A bordo: 0
+
+--- Vuelta ---
+Parada 66 (Los Alamos, 3900): Suben 0, Bajan 0, A bordo: 0
+Parada 32 (Ca�a Colihue, 1184): Suben 0, Bajan 0, A bordo: 0
+Parada 39 (Dorrego, 700): Suben 0, Bajan 0, A bordo: 0
+Parada 12 (Alsua De Corbetto, 638): Suben 0, Bajan 0, A bordo: 0
+Parada 22 (Avenida Julio Argentino Roca, 2599): Suben 0, Bajan 0, A bordo: 0
+Parada 33 (Chiquichan, 22): Suben 0, Bajan 0, A bordo: 0
+Parada 20 (Avenida Julio Argentino Roca, 1615): Suben 0, Bajan 0, A bordo: 0
+Parada 23 (Avenida Julio Argentino Roca, 936): Suben 0, Bajan 0, A bordo: 0
+Parada 25 (Bartolom� Mitre, 610): Suben 0, Bajan 0, A bordo: 0
+Parada 24 (Bartolom� Mitre, 401): Suben 0, Bajan 0, A bordo: 0
+Parada 5 (28 De Julio, 200): Suben 0, Bajan 0, A bordo: 0
+Parada 1 (1 De Marzo, 405): Suben 0, Bajan 0, A bordo: 0
+
+Simulación completada. Recorridos realizados:
+- Línea L2: 5 de 5 recorridos
+- Línea L6: 2 de 2 recorridos
+- Línea L1: 2 de 2 recorridos
+- Línea L5: 3 de 3 recorridos
+- Línea L4: 5 de 5 recorridos
+- Línea L3: 2 de 2 recorridos
+
+Índice de satisfacción del cliente: 0,85
+Calificación 5: 138 pasajeros
+Calificación 4: 349 pasajeros
+Calificación 3: 13 pasajeros
+Calificación 2: 0 pasajeros
+Calificación 1: 0 pasajeros
+
+Ocupación promedio por línea:
+Línea L6 - Ocupación promedio: 14,39%
+Línea L2 - Ocupación promedio: 13,79%
+Línea L3 - Ocupación promedio: 9,79%
+Línea L4 - Ocupación promedio: 9,14%
+Línea L5 - Ocupación promedio: 15,73%
+Línea L1 - Ocupación promedio: 14,73%
